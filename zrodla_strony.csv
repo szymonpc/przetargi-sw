@@ -1,0 +1,12 @@
+# Strony do monitorowania. Jedna linia = jedna strona z listą przetargów / zapytań ofertowych.
+# Najlepiej podawać adres podstrony "Zamówienia publiczne" / "Przetargi" / "Zapytania ofertowe" w BIP,
+# albo profil zamawiającego na platformie (platformazakupowa.pl/pn/..., ezamawiajacy.pl, smartpzp, e-ProPublico).
+# Kolumna "uwagi": SPRAWDZONY = adres potwierdzony; DO_SPRAWDZENIA = adres przypuszczalny (patrz "Stan źródeł" w raporcie).
+nazwa,url,wojewodztwo,uwagi
+Gmina Ostróda (BIP),https://bip.gminaostroda.pl,warmińsko-mazurskie,SPRAWDZONY
+Gmina Miejska Ostróda,https://www.ostroda.pl,warmińsko-mazurskie,SPRAWDZONY
+Powiat Ostródzki (BIP),https://bipspostroda.warmia.mazury.pl,warmińsko-mazurskie,SPRAWDZONY
+RDLP Olsztyn (platformazakupowa),https://platformazakupowa.pl/pn/rdlp_olsztyn,warmińsko-mazurskie,SPRAWDZONY
+Urząd Marszałkowski Warmii i Mazur (BIP),https://bip.warmia.mazury.pl,warmińsko-mazurskie,DO_SPRAWDZENIA
+Miasto Olsztyn (BIP),https://bip.olsztyn.eu,warmińsko-mazurskie,DO_SPRAWDZENIA
+Zarząd Dróg Wojewódzkich Olsztyn,https://zdw.olsztyn.pl,warmińsko-mazurskie,DO_SPRAWDZENIA
