@@ -21,6 +21,10 @@ Po przebiegu sprawdź tabelę „Stan źródeł” w `wyniki/najnowsze.md` – B
 - `wyniki/aktywne.json` – aktywne przetargi (dane)
 - `wyniki/RRRR-MM-DD.md` – archiwum
 
+## Branże
+- **metal** – ogrodzenia, balustrady, konstrukcje, wiaty, stal nierdzewna…
+- **nawierzchnie** – kostka brukowa, chodniki, place, parkingi, ścieżki (wyłączysz: `SZUKAJ_NAWIERZCHNI = False`)
+
 ## Priorytety
 - **A** – branża w CPV lub tytule
 - **S** – znalezione na stronie gminy/powiatu

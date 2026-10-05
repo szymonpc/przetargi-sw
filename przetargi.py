@@ -45,7 +45,7 @@ NUTS = {                 # kody NUTS (TED)
     "PL63": "pomorskie",
 }
 
-CPV_PREFIKSY = {
+CPV_METAL = {
     "45340": "ogrodzenia, barierki, sprzęt ochronny",
     "45342": "wznoszenie ogrodzeń",
     "45233280": "bariery drogowe",
@@ -70,7 +70,7 @@ CPV_PREFIKSY = {
 }
 
 # Słowa MOCNE – szukane w tytule i w treści ogłoszenia (wprost wskazują Waszą branżę)
-SLOWA_MOCNE = [
+SLOWA_MOCNE_METAL = [
     # ogrodzenia, bramy, balustrady
     "ogrodzen", "płot", "parkan", "piłkochwyt", "pilkochwyt", "bram wjazd", "bramy wjazd",
     "brama wjazd", "brama przesuwn", "bramy przesuwn", "furtk", "balustrad", "barierk",
@@ -97,7 +97,7 @@ SLOWA_MOCNE = [
 ]
 
 # Słowa SŁABE – tylko w tytule (w treści dawałyby za dużo fałszywych trafień)
-SLOWA_SLABE = [
+SLOWA_SLABE_METAL = [
     "brama", "bramy", "bram", "szlaban", "przęsł", "przesl", "barier", "osłon", "oslon",
     "podjazd", "rampa", "rampy", "schod", "drabin", "trap", "galeri", "przystank", "rowerow",
     "boks", "śmietnik", "smietnik", "maszt", "stelaż", "stelaz", "regał", "regal", "kontener",
@@ -105,9 +105,52 @@ SLOWA_SLABE = [
     "ławk", "lawk", "koszy", "kosze", "tablic", "plac zabaw", "placu zabaw", "placów zabaw",
     "siłowni", "silowni", "boisk", "trybun", "skatepark", "renowacj", "konserwacj", "pomnik",
     "okiennic", "drzwi stalow", "drzwi metalow", "most", "przepust", "slip", "przystań",
-    "przystan", "dostępnoś", "dostepnos", "niepełnospraw", "niepelnospraw", "zagospodarowan",
+    "przystan", "dostępnoś", "dostepnos", "niepełnospraw", "niepelnospraw",
     "siatk", "daszek", "daszk", "zadaszenie", "hala", "hali", "magazyn",
 ]
+
+# ---------------- NAWIERZCHNIE: kostka brukowa, chodniki, place, parkingi ----------------
+SZUKAJ_NAWIERZCHNI = True   # False = wyłącza tę branżę
+
+CPV_NAWIERZCHNIE = {
+    "45233222": "układanie chodników",
+    "45233161": "ścieżki piesze",
+    "45233162": "ścieżki rowerowe",
+    "45233260": "drogi dla pieszych",
+    "45233253": "nawierzchnie dróg dla pieszych",
+    "45233200": "różne nawierzchnie",
+    "45233250": "nawierzchnie (poza drogami)",
+    "45233252": "nawierzchnie ulic",
+    "45223300": "parkingi",
+    "45111291": "zagospodarowanie terenu",
+}
+
+SLOWA_MOCNE_NAWIERZCHNIE = [
+    "kostk brukow", "kostki brukow", "kostką brukow", "kostka brukowa", "kostki betonow",
+    "kostką betonow", "kostka betonowa", "kostki granitow", "kostka granitowa", "kostki kamienn",
+    "płyt ażurow", "plyt azurow", "płyty ażurow", "płyt chodnikow", "płyty chodnikow",
+    "nawierzchni z kostki", "nawierzchnia z kostki", "polbruk", "geokrat", "ekokrat", "eko-krat",
+    "brukarsk",
+]
+
+SLOWA_SLABE_NAWIERZCHNIE = [
+    "chodnik", "ciąg pieszy", "ciągu pieszego", "ciągów pieszych", "ciąg pieszo", "ciągu pieszo",
+    "ścieżk", "sciezk", "parking", "miejsc postojow", "miejsca postojow", "miejsc parkingow",
+    "plac manewr", "placu manewr", "plac postoj", "placu postoj", "plac przed", "placu przed",
+    "plac targ", "placu targ", "plac skład", "placu skład", "plac apelow", "placu apelow",
+    "dojazd", "dojść", "dojscia", "dojście", "dojścia", "zjazd", "nawierzchni", "utwardzen",
+    "opasek", "opaski", "opaska", "dziedzin", "podwór", "podwor", "alejk", "alei", "skwer",
+    "deptak", "zatok", "peron", "krawężnik", "kraweznik", "obrzeż", "obrzez", "bruk",
+    "droga wewnętrzn", "drogi wewnętrzn", "dróg wewnętrzn", "odwodnieni liniow", "korytk",
+    "zagospodarowan", "rynku", "rynek",
+]
+
+if not SZUKAJ_NAWIERZCHNI:
+    CPV_NAWIERZCHNIE, SLOWA_MOCNE_NAWIERZCHNIE, SLOWA_SLABE_NAWIERZCHNIE = {}, [], []
+
+CPV_PREFIKSY = {**CPV_METAL, **CPV_NAWIERZCHNIE}
+SLOWA_MOCNE = SLOWA_MOCNE_METAL + SLOWA_MOCNE_NAWIERZCHNIE
+SLOWA_SLABE = SLOWA_SLABE_METAL + SLOWA_SLABE_NAWIERZCHNIE
 SLOWA_KLUCZOWE = SLOWA_MOCNE + SLOWA_SLABE
 
 # Słowa w tytule, które wykluczają ogłoszenie (fałszywe trafienia)
@@ -119,6 +162,11 @@ WYKLUCZENIA = [
     "szkoleni", "catering", "wywóz odpadów", "odbiór odpadów", "materiałów biurow",
     "tonerów", "kart paliw", "leasing", "samochod", "ambulans", "konserwacja dźwig",
     "konserwacja wind", "konserwacja system", "konserwacja instalacji",
+    "remont cząstkow", "remonty cząstkow", "remontów cząstkow", "oznakowania poziom",
+    "oznakowanie poziom", "sprzątanie ulic", "oczyszczani", "pielęgnacj", "koszeni",
+    "lokali mieszkal", "lokalu mieszkal", "nadzór inwestorsk", "nadzoru inwestorsk",
+    "pełnienie funkcji inspektor", "dokumentacji projekt", "dokumentacja projekt",
+    "dokumentacj projekt", "opracowanie dokumentacji", "wykonanie dokumentacji",
 ]
 
 # Słowa pomocnicze - na stronach gmin link musi zawierać słowo branżowe ORAZ
@@ -170,6 +218,17 @@ def dopasuj_slowa(tekst, lista=None):
 def wykluczone(tytul):
     t = tytul.lower()
     return any(zawiera(t, w) for w in WYKLUCZENIA)
+
+
+def branza(kody, slowa):
+    b = []
+    if any(k.startswith(p) for p in CPV_METAL for k in kody) or \
+            set(slowa) & set(SLOWA_MOCNE_METAL + SLOWA_SLABE_METAL):
+        b.append("metal")
+    if any(k.startswith(p) for p in CPV_NAWIERZCHNIE for k in kody) or \
+            set(slowa) & set(SLOWA_MOCNE_NAWIERZCHNIE + SLOWA_SLABE_NAWIERZCHNIE):
+        b.append("nawierzchnie")
+    return " + ".join(b)
 
 
 def dopasuj_cpv(kody):
@@ -297,6 +356,7 @@ def ocen_bzp(o):
     oid = o.get("objectId")
     return {
         "zrodlo": "BZP", "id": f"bzp:{oid}", "priorytet": prio, "tytul": tytul,
+        "branza": branza(kody, t_tytul + t_tresc),
         "zamawiajacy": o.get("organizationName") or wyciagnij(tresc, r"Nazwa zamawiającego:\s*(.+)"),
         "miejscowosc": o.get("organizationCity") or wyciagnij(tresc, r"Miejscowość:\s*(.+)"),
         "wojewodztwo": WOJEWODZTWA[woj],
@@ -368,6 +428,7 @@ def ocen_ted(o):
     termin = plaski(o.get("deadline-receipt-tender-date-lot")).split(" | ")[0]
     return {
         "zrodlo": "TED", "id": f"ted:{nr}", "priorytet": prio, "tytul": tytul[:300],
+        "branza": branza(kody, t_tytul + t_opis),
         "zamawiajacy": plaski(o.get("buyer-name"))[:200],
         "miejscowosc": plaski(o.get("buyer-city"))[:80], "wojewodztwo": woj,
         "numer": nr, "cpv": ", ".join(kody[:6]),
@@ -441,6 +502,7 @@ def zrodlo_strony(widziane_strony):
                 trafienia += 1
                 wyniki.append({
                     "zrodlo": "Strona", "id": ident, "priorytet": "S", "tytul": tekst[:300],
+                    "branza": branza([], slowa),
                     "zamawiajacy": nazwa, "miejscowosc": "", "wojewodztwo": woj,
                     "numer": "", "cpv": "", "opublikowano": "", "termin_ofert": "",
                     "wartosc": "", "dopasowanie": ", ".join(slowa[:8]), "link": link,
@@ -500,6 +562,7 @@ def markdown(nowe, aktywne, data):
             dop = " _(pierwszy przegląd strony – może być archiwalne)_" if w.get("pierwszy_przeglad") else ""
             L.append(f"### [{w['priorytet']}] {w['tytul']}{dop}")
             gdzie = ", ".join(x for x in (w["miejscowosc"], w["wojewodztwo"]) if x)
+            L.append(f"- Branża: {w.get('branza', '')}")
             L.append(f"- Źródło: {w['zrodlo']} · Zamawiający: {w['zamawiajacy']}" + (f" ({gdzie})" if gdzie else ""))
             if w["termin_ofert"] or w["opublikowano"]:
                 L.append(f"- Termin ofert: **{w['termin_ofert'] or 'sprawdź'}** · opublikowano: {w['opublikowano']}")
@@ -522,7 +585,7 @@ def markdown(nowe, aktywne, data):
 
 def html_maila(nowe, data):
     wiersze = "".join(
-        f"<tr><td>{w['priorytet']}</td><td>{w['zrodlo']}</td>"
+        f"<tr><td>{w['priorytet']}</td><td>{w.get('branza', '')}</td><td>{w['zrodlo']}</td>"
         f"<td><a href='{html.escape(w['link'])}'>{html.escape(w['tytul'])}</a></td>"
         f"<td>{html.escape(str(w['zamawiajacy']))}<br><small>{html.escape(str(w['miejscowosc']))} "
         f"{w['wojewodztwo']}</small></td><td><b>{w['termin_ofert'] or '–'}</b></td>"
@@ -534,7 +597,7 @@ def html_maila(nowe, data):
     return f"""<html><body style="font-family:Arial,sans-serif">
 <h2>Przetargi – {data}</h2><p>Nowe: <b>{len(nowe)}</b></p>
 <table border="1" cellpadding="6" cellspacing="0" style="border-collapse:collapse;font-size:13px">
-<tr style="background:#eee"><th>Pr.</th><th>Źródło</th><th>Przedmiot</th><th>Zamawiający</th>
+<tr style="background:#eee"><th>Pr.</th><th>Branża</th><th>Źródło</th><th>Przedmiot</th><th>Zamawiający</th>
 <th>Termin</th><th>Dopasowanie</th></tr>{wiersze}</table>
 <p><small>A = CPV/tytuł, S = strona gminy/powiatu, B = tylko w treści ogłoszenia.</small></p>
 {stopka}</body></html>"""
