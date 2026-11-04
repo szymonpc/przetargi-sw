@@ -1,565 +1,655 @@
-# Przetargi SW Sp. z o.o. – 2026-11-03
+# Przetargi SW Sp. z o.o. – 2026-11-04
 
-Nowe: **68** · Aktywne łącznie: **769**
+Nowe: **79** · Aktywne łącznie: **822**
 
 ## Nowe od ostatniego przeglądu
 
-### [A] Polska – Roboty budowlane – Wykonanie termomodernizacji Gmachu Chemii Politechniki Warszawskiej – docieplenie dachu wraz z robotami towarzyszącymi
-- Branża: metal
-- Źródło: TED · Zamawiający: Politechnika Warszawska (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-09+01:00** · opublikowano: 2026-11-03
-- CPV: 45000000, 45210000, 45214410, 45260000, 45261210, 45261420
-- Dopasowanie: instalowanie konstrukcji metalowych, roboty konstrukcyjne
-- Link: https://ted.europa.eu/pl/notice/-/detail/760480-2026
+### [A] Polska – Usługi sadzenia roślin oraz utrzymania terenów zielonych – Usługa zagospodarowania terenów zielonych w ramach projektu pod nazwą: „Ochrona bioróżnorodności oraz walorów przyrodniczo-krajobrazowych na terenie Wojewódzkiego Szpitala Specjalistycznego w Olsztynie” – powtórka 3
+- Branża: nawierzchnie
+- Źródło: TED · Zamawiający: Wojewódzki Szpital Specjalistyczny w Olsztynie (Olsztyn, warmińsko-mazurskie)
+- Termin ofert: **2026-11-09+01:00** · opublikowano: 2026-11-04
+- CPV: 77310000, 77310000
+- Dopasowanie: zagospodarowan
+- Link: https://ted.europa.eu/pl/notice/-/detail/767052-2026
 
 ### [A] Polska – Serwery – Dostawa i magazynowanie infrastruktury sprzętowej dla Ośrodków Regionalnych PZŁ SWD PRM
 - Branża: metal
 - Źródło: TED · Zamawiający: Lotnicze Pogotowie Ratunkowe (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-09+01:00** · opublikowano: 2026-11-03
+- Termin ofert: **2026-11-10+01:00** · opublikowano: 2026-11-04
 - CPV: 48820000, 48820000
 - Dopasowanie: magazyn
-- Link: https://ted.europa.eu/pl/notice/-/detail/762844-2026
+- Link: https://ted.europa.eu/pl/notice/-/detail/764618-2026
 
-### [A] Polska – Roboty budowlane – Budowa obiektu mostowego wraz z drogą dojazdową klasy „L” na odcinku od ul. Małgorzatowo do DW nr 657 w Nowej Wsi.
-- Branża: metal + nawierzchnie
-- Źródło: TED · Zamawiający: Gmina Lubicz (Lubicz, kujawsko-pomorskie)
-- Termin ofert: **2026-11-09+02:00** · opublikowano: 2026-11-03
-- CPV: 45000000, 45221110, 45221111, 45233120, 45233000, 45000000
-- Dopasowanie: dojazd, most
-- Link: https://ted.europa.eu/pl/notice/-/detail/763410-2026
-
-### [A] Modernizacja ewidencji gruntów i budynków obrębów ewidencyjnych Annopol Paszkówka, Guzew i Koszelew w jednostce ewidencyjnej gmina Gąbin
+### [A] Wyposażenie socjalno - bytowe, wyposażenie biurowo - administracyjne oraz dodatkowe rozwiązania zgodnie z opisem przedmiotu zamówienia.
 - Branża: metal
-- Źródło: BZP · Zamawiający: Powiat Płocki (Płock, mazowieckie)
-- Termin ofert: **2026-11-10 08:00** · opublikowano: 2026-11-02 09:20
-- CPV: 71250000
-- Dopasowanie: kosze
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38c2-892a-a883-e2d6-6b000120c352
-
-### [A] Modernizacja Placu Zabaw przy Żłobku Miejskim w Kisielicach
-- Branża: metal
-- Źródło: BZP · Zamawiający: GMINA KISIELICE (Kisielice, warmińsko-mazurskie)
-- Termin ofert: **2026-11-10 09:00** · opublikowano: 2026-11-02 11:18
-- CPV: 37535200, 43327000, 45112723, 45100000
-- Dopasowanie: urządzenia placów zabaw, placu zabaw, małej architektur, ogrodzen, poręcz, wiat
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d2-fb30-21f0-e2d6-6b000120c72f
-
-### [A] Sporządzanie projektów decyzji o warunkach zabudowy i zagospodarowania terenu oraz projektów decyzji o ustaleniu lokalizacji inwestycji celu publicznego dla obszaru Gminy Dobrcz
-- Branża: nawierzchnie
-- Źródło: BZP · Zamawiający: Gmina Dobrcz (Dobrcz, kujawsko-pomorskie)
-- Termin ofert: **2026-11-10 09:00** · opublikowano: 2026-11-02 11:33
-- CPV: 71400000
-- Dopasowanie: zagospodarowan
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d5-1125-333d-e2d6-6b000120c7a9
-
-### [A] Dostawa i montaż mebli i foteli biurowych
-- Branża: metal
-- Źródło: BZP · Zamawiający: Urząd Komunikacji Elektronicznej (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-10 09:00** · opublikowano: 2026-11-02 12:22
-- CPV: 39130000, 39113100
+- Źródło: BZP · Zamawiający: SZPITAL WOLSKI IM. DR ANNY GOSTYŃSKIEJ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-12 07:00** · opublikowano: 2026-11-03 12:21
+- CPV: 39112000, 39143100, 39121100, 39113100, 39162100
 - Dopasowanie: siedziska / ławki
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38db-f7e0-a341-e2d6-6b000120c953
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a4-f031-3c3d-e2d6-6b000120db38
 
-### [A] Dostawa, montaż, uruchomienie, serwisowanie, demontaż sezonowego, kompletnego lodowiska wraz z zadaszeniem na terenie Dzielnicy Wilanów m.st. Warszawy
+### [A] Wykonanie badań geotechnicznych dla zadania pn.: „Doszczelnienie przesłony przeciwfiltracyjnej zapory czołowej wraz z robotami towarzyszącymi na terenie Zbiornika Racibórz Dolny”.
 - Branża: metal
-- Źródło: BZP · Zamawiający: MIASTO STOŁECZNE WARSZAWA (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-10 09:00** · opublikowano: 2026-11-02 13:02
-- CPV: 92000000, 37411200, 37481000, 42513100, 45331231
-- Dopasowanie: zadaszen, zadaszenie
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38e1-9704-221d-e2d6-6b000120ca92
-
-### [A] Zakup 9 osobowego mikrobusu dostosowanego do przewozu osób niepełnosprawnych dla Specjalnego Ośrodka Szkolno – Wychowawczego w Miłakowie
-- Branża: metal
-- Źródło: BZP · Zamawiający: Powiat Ostródzki (Ostróda, warmińsko-mazurskie)
-- Termin ofert: **2026-11-10 09:00** · opublikowano: 2026-11-02 14:16
-- CPV: 34115200
-- Dopasowanie: niepełnospraw
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38eb-e9c3-7794-e2d6-6b000120cc84
-
-### [A] Zakup autobusu na min. 18 miejsc, służącego do przewozu osób niepełnosprawnych dla potrzeb Środowiskowego Domu Samopomocy  w Dźwierzutach (w tym min. jednej osoby na wózku inwalidzkim)
-- Branża: metal
-- Źródło: BZP · Zamawiający: Gmina Dźwierzuty (Dźwierzuty, warmińsko-mazurskie)
-- Termin ofert: **2026-11-10 11:00** · opublikowano: 2026-11-02 14:02
-- CPV: 34121000, 34100000, 34114000, 34120000
-- Dopasowanie: niepełnospraw
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38e9-ff28-d548-e2d6-6b000120cc50
-
-### [A] SVA/4620-680/2026 Najem kontenerowej kotłowni olejowej z magazynem lekkiego oleju opałowego wraz z montażem, demontażem oraz obsługą serwisową w okresie najmu dla kompleksu wojskowego w m. Kiekrz.
-- Branża: metal
-- Źródło: BZP · Zamawiający: AMW SINEVIA SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Nowy Dwór Mazowiecki, mazowieckie)
-- Termin ofert: **2026-11-12 08:00** · opublikowano: 2026-11-02 11:09
-- CPV: 44621200, 50721000
-- Dopasowanie: kontener, magazyn, poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d1-ba13-2327-e2d6-6b000120c6d4
-
-### [A] Sukcesywne dostawy oleju napędowego do zbiornika Zamawiającego oraz zapewnienie bezgotówkowego tankowania pojazdów olejem napędowym i benzyną pojazdów użytkowanych przez Zamawiającego
-- Branża: metal
-- Źródło: BZP · Zamawiający: EKOHEL SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Hel, pomorskie)
-- Termin ofert: **2026-11-12 08:00** · opublikowano: 2026-11-02 12:35
-- Wartość: 862500,00 PLN
-- CPV: 09132100, 09134100
+- Źródło: BZP · Zamawiający: Państwowe Gospodarstwo Wodne Wody Polskie (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-12 08:00** · opublikowano: 2026-11-03 06:50
+- Wartość: 189000,00 PLN
+- CPV: 71000000, 71300000, 71332000, 71335000, 71336000
 - Dopasowanie: zbiornik
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38dd-bb85-364d-e2d6-6b000120c9a5
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3976-be32-4dd1-e2d6-6b000120d161
 
-### [A] Wykonanie i dostarczanie nowych tablic rejestracyjnych oraz odbieranie i złomowanie wycofanych z użytku tablic rejestracyjnych do/z siedziby Starostwa Powiatowego w Mławie
+### [A] Zakup i dostawa materiałów do archiwizacji do magazynu-archiwum Urzędu m.st. Warszawy Dzielnicy Mokotów przy ul. Kazimierzowskiej 60 w Warszawie
 - Branża: metal
-- Źródło: BZP · Zamawiający: POWIAT MŁAWSKI (Mława, mazowieckie)
-- Termin ofert: **2026-11-12 09:00** · opublikowano: 2026-11-02 10:06
+- Źródło: BZP · Zamawiający: Miasto Stołeczne Warszawa Dzielnica Mokotów (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-12 08:00** · opublikowano: 2026-11-03 12:27
+- Wartość: 81300,81 PLN
+- CPV: 30192000
+- Dopasowanie: magazyn
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a5-d655-8fe9-e2d6-6b000120db68
+
+### [A] Utrzymanie i konserwacja terenów zieleni miejskiej będących własnością Gminy Miasta Mrągowa
+- Branża: metal
+- Źródło: BZP · Zamawiający: Gmina Miasto Mrągowo (Mrągowo, warmińsko-mazurskie)
+- Termin ofert: **2026-11-12 09:00** · opublikowano: 2026-11-03 09:28
+- CPV: 77310000
+- Dopasowanie: konserwacj, małej architektur
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df398c-c4bf-d485-e2d6-6b000120d55f
+
+### [A] Odbiór i zagospodarowanie odpadów komunalnych z terenu Gminy Przesmyki w okresie od dnia 01.01.2027 r. do dnia 31.12.2027 r.
+- Branża: nawierzchnie
+- Źródło: BZP · Zamawiający: GMINA PRZESMYKI (Przesmyki, mazowieckie)
+- Termin ofert: **2026-11-12 09:00** · opublikowano: 2026-11-03 12:26
+- CPV: 90500000, 90513100, 90512000, 90533000, 90510000, 90514000
+- Dopasowanie: zagospodarowan
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a5-a535-9449-e2d6-6b000120db5f
+
+### [A] „Usługi związane z zimowym utrzymaniem dróg, chodników, ciągów pieszych i parkingów gminnych – w sezonie 2026/2027”
+- Branża: nawierzchnie
+- Źródło: BZP · Zamawiający: GMINA SOMONINO (Somonino, pomorskie)
+- Termin ofert: **2026-11-12 09:00** · opublikowano: 2026-11-03 13:09
+- CPV: 90620000, 90630000
+- Dopasowanie: chodnik, ciągów pieszych, parking
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39ab-c2ea-bc35-e2d6-6b000120dd07
+
+### [A] Transport i zagospodarowanie odpadów komunalnych należących do Gminy Szubin w 2027 r.
+- Branża: nawierzchnie
+- Źródło: BZP · Zamawiający: GMINA SZUBIN (Szubin, kujawsko-pomorskie)
+- Termin ofert: **2026-11-12 09:00** · opublikowano: 2026-11-03 13:58
+- CPV: 90500000, 90511000, 90512000
+- Dopasowanie: zagospodarowan
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39b2-7ced-1bb0-e2d6-6b000120de7c
+
+### [A] Zagospodarowanie odpadów komunalnych z terenu gminy Baranowo w 2027 r.
+- Branża: metal + nawierzchnie
+- Źródło: BZP · Zamawiający: Gmina Baranowo (Baranowo, mazowieckie)
+- Termin ofert: **2026-11-12 09:00** · opublikowano: 2026-11-03 14:04
+- CPV: 90533000, 90514000, 90500000
+- Dopasowanie: zagospodarowan, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39b3-532a-15d4-e2d6-6b000120dea3
+
+### [A] Dostawa mobilnej, kontenerowej stacji uzdatniania wody o wydajności min. 5m3/h z ujęcia wody oraz min.10m3/h pompowni drugiego stopnia do sieci wodociągowej
+- Branża: metal
+- Źródło: BZP · Zamawiający: GMINA KOŚCIERZYNA (Kościerzyna, pomorskie)
+- Termin ofert: **2026-11-12 10:00** · opublikowano: 2026-11-03 11:07
+- CPV: 42912330, 42912300, 44613000, 44613400, 79632000
+- Dopasowanie: kontener, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df399a-a6d4-19c4-e2d6-6b000120d8bd
+
+### [A] Sukcesywne świadczenie usług usuwania śniegu oraz usuwania śliskości w sezonie zimowym 2026/2027 dróg, chodników, ciągów pieszo – jezdnych Gminy Ustka
+- Branża: nawierzchnie
+- Źródło: BZP · Zamawiający: Wójt Gminy Ustka (Ustka, pomorskie)
+- Termin ofert: **2026-11-13 08:00** · opublikowano: 2026-11-03 08:11
+- CPV: 90620000
+- Dopasowanie: chodnik
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3982-05ac-ccb2-e2d6-6b000120d340
+
+### [A] Dostawa aparatury medycznej dla Szpitali Pomorskich Sp. z o.o. (...) w Gdyni w ramach zadania „Poprawa dostępności i jakości (...) Zakładu Diagnostyki Obrazowej w Szpitalu Morskim im. PCK w Gdyni”
+- Branża: metal
+- Źródło: BZP · Zamawiający: SZPITALE POMORSKIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Gdynia, pomorskie)
+- Termin ofert: **2026-11-13 08:00** · opublikowano: 2026-11-03 10:15
+- CPV: 33112200
+- Dopasowanie: dostępnoś
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3993-6f43-1fdd-e2d6-6b000120d6fc
+
+### [A] Dostawa tablic rejestracyjnych w roku 2027
+- Branża: metal
+- Źródło: BZP · Zamawiający: POWIAT SŁUPSKI (Słupsk, pomorskie)
+- Termin ofert: **2026-11-13 08:00** · opublikowano: 2026-11-03 12:54
 - CPV: 30195000
 - Dopasowanie: tablic
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38c8-e5ef-a2ee-e2d6-6b000120c4c2
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a9-ab6f-863c-e2d6-6b000120dc98
 
-### [A] Świadczenie usługi całodobowej bezpośredniej ochrony fizycznej osób i mienia w budynku przy ul. Koszykowej 6A w Warszawie oraz nadzorowanie terenu wokół obiektu w okresie od 01.01.-31.12.2027 r.
+### [A] Na sukcesywną sprzedaż gazów medycznych i technicznych wraz z dzierżawą zbiorników
 - Branża: metal
-- Źródło: BZP · Zamawiający: Ośrodek Studiów Wschodnich im. Marka Karpia (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-12 09:00** · opublikowano: 2026-11-02 12:06
-- Wartość: 393586,80 PLN
+- Źródło: BZP · Zamawiający: Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej (Lipsko, mazowieckie)
+- Termin ofert: **2026-11-13 09:00** · opublikowano: 2026-11-03 08:04
+- CPV: 24111500, 44611000, 51810000, 24110000
+- Dopasowanie: zbiorniki, zbiornik
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3981-179f-55fd-e2d6-6b000120d30b
+
+### [A] Wykonanie i dostawa tablic rejestracyjnych dla potrzeb Wydziału Komunikacji i Transportu Starostwa Powiatowego w Piasecznie w 2027 roku.
+- Branża: metal
+- Źródło: BZP · Zamawiający: Powiat Piaseczyński - Starostwo Powiatowe w Piasecznie (Piaseczno, mazowieckie)
+- Termin ofert: **2026-11-13 09:00** · opublikowano: 2026-11-03 08:15
+- CPV: 30195000
+- Dopasowanie: tablic
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3982-a273-3d85-e2d6-6b000120d364
+
+### [A] Dostawa i montaż osłon przeciwsłonecznych oraz folii matowej na przeszkleniach budynku Centrum Urazowego WSS w Olsztynie
+- Branża: metal
+- Źródło: BZP · Zamawiający: Wojewódzki Szpital Specjalistyczny w Olsztynie (Olsztyn, warmińsko-mazurskie)
+- Termin ofert: **2026-11-13 09:00** · opublikowano: 2026-11-03 11:54
+- CPV: 44115700, 44115900
+- Dopasowanie: osłon
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a1-30d9-1539-e2d6-6b000120da53
+
+### [A] Wyposażenie, aparatura i sprzęt medyczny
+ POZ SPZZOZ - Szpital w Iłży
+realizowanego w ramach naboru FEMA.05.06-IP.01-057/25
+- Branża: metal
+- Źródło: BZP · Zamawiający: SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ - SZPITAL W IŁŻY (Iłża, mazowieckie)
+- Termin ofert: **2026-11-13 09:00** · opublikowano: 2026-11-03 13:07
+- CPV: 33192000, 33196200, 38311000, 39113000, 33190000, 30213200, 48000000, 33100000, 35112000
+- Dopasowanie: siedziska / ławki
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39ab-7035-2bbc-e2d6-6b000120dcf5
+
+### [A] Polska – Roboty w zakresie rurociągów do przesyłu wody – Kontrakt W-4/R „Rozbudowa i modernizacja sieci wodociągowej na terenie miasta Torunia”
+- Branża: metal + nawierzchnie
+- Źródło: TED · Zamawiający: Toruńskie Wodociągi Sp. z o.o. (Toruń, kujawsko-pomorskie)
+- Termin ofert: **2026-11-13+01:00** · opublikowano: 2026-11-04
+- CPV: 45232150, 45000000, 45233200, 45232150, 45000000, 45233200
+- Dopasowanie: różne nawierzchnie, rurociąg
+- Link: https://ted.europa.eu/pl/notice/-/detail/767332-2026
+
+### [A] Usługa wywozu nieczystości ciekłych ze zbiorników bezodpływowych z obiektów administrowanych przez 22. BLT w Malborku
+- Branża: metal
+- Źródło: BZP · Zamawiający: 22 BAZA LOTNICTWA TAKTYCZNEGO (Malbork, pomorskie)
+- Termin ofert: **2026-11-16 08:00** · opublikowano: 2026-11-03 13:15
+- CPV: 90400000
+- Dopasowanie: zbiornik
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39ac-8175-8263-e2d6-6b000120dd2a
+
+### [A] Ochrona mienia Galerii Miejskiej bwa w Bydgoszczy
+- Branża: metal
+- Źródło: BZP · Zamawiający: Galeria Miejska bwa w Bydgoszczy (Bydgoszcz, kujawsko-pomorskie)
+- Termin ofert: **2026-11-16 11:00** · opublikowano: 2026-11-03 12:50
 - CPV: 79710000
-- Dopasowanie: koszy
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d9-b9f9-5929-e2d6-6b000120c8d7
+- Dopasowanie: galeri
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a9-1386-1dde-e2d6-6b000120dc6e
 
-### [A] Odbiór i zagospodarowanie odpadów komunalnych od właścicieli nieruchomości zamieszkałych z terenu gminy
-Sieciechów oraz z PSZOK w Sieciechowie
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: Gmina Sieciechów (Sieciechów, mazowieckie)
-- Termin ofert: **2026-11-12 09:00** · opublikowano: 2026-11-02 13:34
-- Wartość: 700000 PLN
-- CPV: 90500000, 90512000, 90513100, 90514000, 90533000
-- Dopasowanie: zagospodarowan, poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38e6-074a-8530-e2d6-6b000120cb8b
-
-### [A] Sukcesywna dostawa 35 tysięcy litrów oleju opalowego do magazynów Zespołu Szkolno-Przedszkolnego w Samsiecznie w 2027 roku.
+### [A] Polska – Urządzenia medyczne – Zakup, dostawa i montaż nowoczesnego toru wizyjnego i zestawów narzędzi laparoskopowych na potrzeby Mazowieckiego Szpitala Specjalistycznego im. dr. Józefa Psarskiego w Ostrołęce w ramach realizacji zadania pod nazwą „Wzrost dostępności i jakości świadczeń z zakresu ch
 - Branża: metal
-- Źródło: BZP · Zamawiający: Zespół Szkolno - Przedszkolny w Samsiecznie (Sicienko, kujawsko-pomorskie)
-- Termin ofert: **2026-11-12 11:00** · opublikowano: 2026-11-02 11:59
-- CPV: 09135100
-- Dopasowanie: magazyn
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d8-c687-8aa4-e2d6-6b000120c882
+- Źródło: TED · Zamawiający: Mazowiecki Szpital Specjalistyczny im. dr. Józefa Psarskiego w Ostrołęce (Ostrołęka, mazowieckie)
+- Termin ofert: **2026-11-16+01:00** · opublikowano: 2026-11-04
+- CPV: 33100000, 33000000, 33169400, 33162000, 33162200, 33100000
+- Dopasowanie: dostępnoś
+- Link: https://ted.europa.eu/pl/notice/-/detail/764186-2026
 
-### [A] Polska – Usługi związane z odpadami – Postępowanie: „Odebranie i zagospodarowanie odpadów komunalnych od właścicieli nieruchomości i PSZOK zlokalizowanych na terenie Gminy Łąck w 2027 roku”
-- Branża: nawierzchnie
-- Źródło: TED · Zamawiający: GMINNY ZAKŁAD KOMUNALNY W ŁĄCKU (Łąck, mazowieckie)
-- Termin ofert: **2026-11-12+01:00** · opublikowano: 2026-11-03
-- CPV: 90500000, 90533000, 90512000, 90513100, 90500000, 90512000
-- Dopasowanie: zagospodarowan
-- Link: https://ted.europa.eu/pl/notice/-/detail/760488-2026
-
-### [A] Polska – Usługi w zakresie napraw i konserwacji urządzeń medycznych i precyzyjnych – Kompleksowa opieka serwisowa nad systemami firmy Varian.
+### [A] Dostawa artykułów ślusarskich oraz hydrauliczno-sanitarnych dla Domu Studenckiego Politechniki Warszawskiej w Płocku
 - Branża: metal
-- Źródło: TED · Zamawiający: Wojewódzki Szpital Zespolony w Płocku (Płock, mazowieckie)
-- Termin ofert: **2026-11-12+01:00** · opublikowano: 2026-11-03
-- CPV: 50400000, 50421000, 50421200, 50400000, 50421200, 50421000
-- Dopasowanie: konserwacj
-- Link: https://ted.europa.eu/pl/notice/-/detail/761311-2026
+- Źródło: BZP · Zamawiający: POLITECHNIKA WARSZAWSKA (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-17 09:00** · opublikowano: 2026-11-03 11:56
+- CPV: 44500000, 44410000
+- Dopasowanie: ślusar
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a1-8cb6-3b4e-e2d6-6b000120da67
 
-### [A] Odbieranie i zagospodarowanie odpadów komunalnych na terenie gminy Stoczek w 2027 r.
-- Branża: nawierzchnie
-- Źródło: BZP · Zamawiający: Gmina Stoczek (Stoczek, mazowieckie)
-- Termin ofert: **2026-11-13 10:00** · opublikowano: 2026-11-02 10:45
-- CPV: 90000000, 90500000, 90510000, 90512000, 90533000, 90514000, 90513100
-- Dopasowanie: zagospodarowan
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38ce-7a48-5576-e2d6-6b000120c60e
-
-### [A] Przebudowa ulicy Dworcowej w miejscowości Borzytuchom
-- Branża: nawierzchnie
-- Źródło: BZP · Zamawiający: GMINA BORZYTUCHOM (Borzytuchom, pomorskie)
-- Termin ofert: **2026-11-16 09:00** · opublikowano: 2026-11-02 13:01
-- CPV: 45233000, 45233220, 45233222, 45233200, 45111100, 45111200, 45232452
-- Dopasowanie: różne nawierzchnie, układanie chodników, kostki betonow, kostki brukow
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38e1-5e12-6b1f-e2d6-6b000120ca81
-
-### [A] Polska – Mikroskopy – Dostawa mikroskopów stereoskopowych, oświetlaczy, przenośnych zestawów oględzinowych, mobilnych masztów oświetleniowych oraz przenośnych stacji zasilania.
+### [A] Zakup fabrycznie nowego pojazdu 9-osobowego (8+1), specjalnie przystosowanego do przewozu jednej osoby na wózku inwalidzkim, w sposób zapewniający niepełnosprawnemu bezpośredni kontakt 
+z opiekunem.
 - Branża: metal
-- Źródło: TED · Zamawiający: Komenda Główna Policji (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-16+01:00** · opublikowano: 2026-11-03
-- CPV: 38510000, 31500000, 31156000, 38510000, 38510000, 38510000
-- Dopasowanie: maszt
-- Link: https://ted.europa.eu/pl/notice/-/detail/761408-2026
-
-### [A] Polska – Usługi w zakresie zdrowia i opieki społecznej – Świadczenie specjalistycznych usług opiekuńczych dla osób z zaburzeniami psychicznymi, w tym dla osób z autyzmem oraz osób z niepełnosprawnością intelektualną w miejscu ich zamieszkania na terenie m.st. Warszawy w 2027 roku z podziałem na 17 c
-- Branża: metal
-- Źródło: TED · Zamawiający: Centrum Usług Społecznych „Społeczna Warszawa” (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-16+01:00** · opublikowano: 2026-11-03
-- CPV: 85000000, 85121270, 80340000, 85311200, 85312400, 85000000
+- Źródło: BZP · Zamawiający: FUNDACJA "WRÓĆ" (Malbork, pomorskie)
+- Termin ofert: **2026-11-17 14:00** · opublikowano: 2026-11-03 14:09
+- CPV: 34110000, 34115200
 - Dopasowanie: niepełnospraw
-- Link: https://ted.europa.eu/pl/notice/-/detail/763360-2026
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39b4-1e1b-9d73-e2d6-6b000120dec4
 
-### [A] Modernizacja drogi powiatowej nr 2328C Janowiec Wlkp. - Rzym
-w m. Sarbinowo Drugie
-- Branża: nawierzchnie
-- Źródło: BZP · Zamawiający: Zarząd Dróg Powiatowych w Żninie z siedzibą w Podgórzynie (Żnin, kujawsko-pomorskie)
-- Termin ofert: **2026-11-17 07:00** · opublikowano: 2026-11-02 11:47
-- CPV: 45000000, 45233140, 45100000, 45233120, 45233220, 45111200, 45233222, 45233200
-- Dopasowanie: różne nawierzchnie, układanie chodników, kostki betonow, nawierzchni z kostki
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d7-0b09-e435-e2d6-6b000120c81e
-
-### [A] Modernizacja pomieszczeń magazynowych na parterze budynku w obiekcie użyteczności publicznej–Zespołu Placówek nr1(Bursa nr 3) przy Al.Chopina 6 we Włocławku,dot. przez Wojewodę Kuj.-Pom.w ramach OLiOC
+### [A] Polska – Roboty budowlane – Zaprojektowanie i wykonanie Robót dla projektu „Modernizacja linii kolejowej nr 353 na odcinku Toruń Główny - Toruń Wschodni wraz z infrastrukturą dworcową oraz budową nowych przystanków kolejowych w Toruniu - BiT City II”
 - Branża: metal
-- Źródło: BZP · Zamawiający: Miasto Włocławek - Urząd Miasta Włocławek (Włocławek, kujawsko-pomorskie)
-- Termin ofert: **2026-11-17 08:00** · opublikowano: 2026-11-02 10:59
-- Wartość: 2106972,56 PLN
-- CPV: 45210000, 45213220, 45262700
-- Dopasowanie: magazyn
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d0-5983-5781-e2d6-6b000120c679
-
-### [A] Naprawa nawierzchni i utwardzenie dróg gminnych na terenie Gminy Sochaczew
-- Branża: nawierzchnie
-- Źródło: BZP · Zamawiający: GMINA SOCHACZEW (Sochaczew, mazowieckie)
-- Termin ofert: **2026-11-17 08:00** · opublikowano: 2026-11-02 16:16
-- CPV: 45233140, 45233220, 45233200, 45111200
-- Dopasowanie: różne nawierzchnie, nawierzchni, utwardzen
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38fc-b8dd-5b76-e2d6-6b000120cd63
-
-### [A] Przebudowa drogi gminnej wraz z budową chodnika w m. Śmiłów
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: Gmina Jastrząb (Jastrząb, mazowieckie)
-- Termin ofert: **2026-11-17 09:00** · opublikowano: 2026-11-02 10:53
-- CPV: 45100000, 45233000, 45233140, 45233142, 45233220
-- Dopasowanie: chodnik, poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38cf-837d-b614-e2d6-6b000120c63f
-
-### [A] Budowa dróg dojazdowych ul. Kleeberga w Starogardzie Gdańskim
-- Branża: nawierzchnie
-- Źródło: BZP · Zamawiający: GMINA MIEJSKA STAROGARD GDAŃSKI (Starogard Gdański, pomorskie)
-- Termin ofert: **2026-11-17 09:00** · opublikowano: 2026-11-02 11:13
-- CPV: 45233226, 45231300
-- Dopasowanie: dojazd, kostki betonow
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d2-6010-561d-e2d6-6b000120c6fd
-
-### [A] Przebudowa drogi gminnej nr 218516G wraz z wykonaniem drogi pieszo – rowerowej, chodnika oraz infrastrukturą techniczną.
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: Gmina Sztum (Sztum, pomorskie)
-- Termin ofert: **2026-11-17 09:00** · opublikowano: 2026-11-02 12:06
-- CPV: 45000000, 45111200, 45200000, 45233120, 45233250, 45233290, 45231400, 45316110
-- Dopasowanie: nawierzchnie (poza drogami), chodnik, rowerow, poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d9-bfc2-a980-e2d6-6b000120c8d8
-
-### [A] Wzmocnienie konstrukcji stropu nad piwnicą w budynku B
-- Branża: metal
-- Źródło: BZP · Zamawiający: SAMODZIELNY PUBLICZNY ZAKŁAD OPIEKI ZDROWOTNEJ SANATORIUM UZDROWISKOWE MINISTERSTWA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI ORION W CIECHOCINKU (Ciechocinek, kujawsko-pomorskie)
-- Termin ofert: **2026-11-17 09:00** · opublikowano: 2026-11-02 13:49
-- CPV: 45000000, 45223200, 45453000
-- Dopasowanie: roboty konstrukcyjne, poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38e8-2276-d66d-e2d6-6b000120cbf1
-
-### [A] Dostawa i montaż piłkochwytów oraz kontenerów szatniowych na boisku piłkarskim w Załężu Dużym
-- Branża: metal
-- Źródło: BZP · Zamawiający: GMINA PNIEWY (Pniewy, mazowieckie)
-- Termin ofert: **2026-11-17 11:00** · opublikowano: 2026-11-02 14:37
-- CPV: 45340000, 45000000
-- Dopasowanie: ogrodzenia, barierki, sprzęt ochronny, boisk, kontener, piłkochwyt, płot
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38ee-c15a-5a47-e2d6-6b000120ccda
+- Źródło: TED · Zamawiający: PKP Polskie Linie Kolejowe S.A. | Gmina Miasta Toruń (Warszawa | Toruń, kujawsko-pomorskie)
+- Termin ofert: **2026-11-17+01:00** · opublikowano: 2026-11-04
+- CPV: 45000000, 71322000, 45200000, 45230000, 45234000, 45234100
+- Dopasowanie: przystan, przystank
+- Link: https://ted.europa.eu/pl/notice/-/detail/766473-2026
 
 ### [A] Polska – Usługi związane z odpadami – Odbiór, transport i zagospodarowanie odpadów komunalnych z terenu gminy Bytoń
 - Branża: nawierzchnie
 - Źródło: TED · Zamawiający: Gmina Bytoń (Bytoń, kujawsko-pomorskie)
-- Termin ofert: **2026-11-17+01:00** · opublikowano: 2026-11-03
+- Termin ofert: **2026-11-17+01:00** · opublikowano: 2026-11-04
 - CPV: 90500000, 90513100, 90512000, 90533000, 90514000, 90500000
 - Dopasowanie: zagospodarowan
-- Link: https://ted.europa.eu/pl/notice/-/detail/761830-2026
+- Link: https://ted.europa.eu/pl/notice/-/detail/766487-2026
 
-### [A] Polska – Roboty budowlane w zakresie lokalnych sieci grzewczych – Przebudowa istniejącej sieci ciepłowniczej w jednostce strukturalnej Wschód Mieszkaniowy i Wschód Przemysłowy na terenie miasta Włocławek Zadanie 2 - Budowa i przebudowa istniejącej osiedlowej sieci ciepłowniczej wraz z przyłączami w 
+### [A] Przebudowa drogi gminnej nr 361114W na odcinku Ciosny – Borki Paduchy
 - Branża: metal + nawierzchnie
-- Źródło: TED · Zamawiający: Miejskie Przedsiębiorstwo Energetyki Cieplnej Sp. z o.o. (Włocławek, kujawsko-pomorskie)
-- Termin ofert: **2026-11-17+01:00** · opublikowano: 2026-11-03
-- CPV: 45232140, 45233252, 77211400, 90510000, 45232140, 77211400
-- Dopasowanie: nawierzchnie ulic, spawa
-- Link: https://ted.europa.eu/pl/notice/-/detail/763706-2026
+- Źródło: BZP · Zamawiający: Gmina Wiśniew (Wiśniew, mazowieckie)
+- Termin ofert: **2026-11-18 08:00** · opublikowano: 2026-11-03 11:04
+- CPV: 45233142, 45233200, 45233140, 45233123
+- Dopasowanie: różne nawierzchnie, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df399a-39c9-671d-e2d6-6b000120d8aa
 
-### [A] Polska – Usługi w zakresie konserwacji i wsparcia systemów – USŁUGA UTRZYMANIA I ROZWOJU GDAŃSKIEJ PLATFORMY EDUKACYJNEJ
+### [A] Wymiana stolarki okiennej i drzwiowej w budynkach ul. Zazamcze 19E, 19F, 19G. 19H w Gostyninie
 - Branża: metal
-- Źródło: TED · Zamawiający: Gdańskie Centrum Informatyczne (Gdańsk, pomorskie)
-- Termin ofert: **2026-11-17+01:00** · opublikowano: 2026-11-03
-- CPV: 72250000, 72230000, 72611000, 72250000, 72230000
-- Dopasowanie: konserwacj
-- Link: https://ted.europa.eu/pl/notice/-/detail/763816-2026
-
-### [A] Modernizacja drogi dojazdowej w miejscowości Dąbrówka na dz. nr 163 i 77
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: GMINA STAROGARD GDAŃSKI (Starogard Gdański, pomorskie)
-- Termin ofert: **2026-11-18 08:00** · opublikowano: 2026-11-02 12:55
-- CPV: 45233220
-- Dopasowanie: dojazd, kostki betonow, poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38e0-946e-ca30-e2d6-6b000120ca57
-
-### [A] Modernizacja chodnika, zjazdów do nieruchomości w ul. Warmińskiej w Zielonce- I etap modernizacji drogi gminnej.
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: Miasto Zielonka (Zielonka, mazowieckie)
-- Termin ofert: **2026-11-18 09:00** · opublikowano: 2026-11-02 13:45
-- CPV: 45111000, 45233300, 45233142, 45233100
-- Dopasowanie: chodnik, zjazd, estakad
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38e7-9f85-7d37-e2d6-6b000120cbda
-
-### [A] Budowa chodnika oraz parkingu z kostki brukowej przy świetlicy wiejskiej w Juniewiczach
-- Branża: nawierzchnie
-- Źródło: BZP · Zamawiający: Gmina Huszlew (Huszlew, mazowieckie)
-- Termin ofert: **2026-11-18 09:00** · opublikowano: 2026-11-02 14:20
-- CPV: 45233250
-- Dopasowanie: nawierzchnie (poza drogami), bruk, chodnik, kostki brukow, parking, kostką brukow
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38ec-621f-e402-e2d6-6b000120cc94
-
-### [A] ,,Budowa chodnika oraz parkingu z kostki brukowej przy świetlicy wiejskiej w Juniewiczach.’’
-- Branża: nawierzchnie
-- Źródło: BZP · Zamawiający: Gmina Huszlew (Huszlew, mazowieckie)
-- Termin ofert: **2026-11-18 09:00** · opublikowano: 2026-11-02 15:09
-- CPV: 45233250
-- Dopasowanie: nawierzchnie (poza drogami), bruk, chodnik, kostki brukow, parking
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38f3-472b-fa57-e2d6-6b000120cd22
-
-### [A] Roboty budowlane pomieszczeń zaplecza kuchennego, stołówki, holu, wejścia głównego i pomieszczeń przyległych w budynku internatu Szkoły Podoficerskiej Państwowej Straży Pożarnej w Bydgoszczy
-- Branża: metal
-- Źródło: BZP · Zamawiający: SZKOŁA PODOFICERSKA PAŃSTWOWEJ STRAŻY POŻARNEJ W BYDGOSZCZY (Bydgoszcz, kujawsko-pomorskie)
-- Termin ofert: **2026-11-18 09:30** · opublikowano: 2026-11-02 13:51
-- CPV: 45000000, 45111300, 45320000, 45262500, 45421100, 45410000, 45442100, 45421140, 45332300, 45332200, 45331100, 45331200, 45310000, 45311100
-- Dopasowanie: stolarka i ślusarka budowlana, poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38e8-7134-88e9-e2d6-6b000120cbfc
-
-### [A] Budowa świetlicy wiejskiej z częścią garażową wraz z infrastrukturą techniczną w miejscowości Węzina
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: Gmina Elbląg (Elbląg, warmińsko-mazurskie)
-- Termin ofert: **2026-11-19 09:00** · opublikowano: 2026-11-02 11:45
-- CPV: 45200000, 45210000, 45211350, 45300000, 45311200, 45330000, 45310000, 45100000, 45400000, 45111291
-- Dopasowanie: zagospodarowanie terenu, poręcz, siłowni zewn
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d6-d283-b8ac-e2d6-6b000120c811
-
-### [A] Budowa budynku mieszkalnego wielorodzinnego, komunalnego i miejsc postojowych wraz z infrastrukturą towarzyszącą przy ul. Fabrycznej w Józefowie
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: Gmina Ożarów Mazowiecki (Ożarów Mazowiecki, mazowieckie)
-- Termin ofert: **2026-11-19 10:00** · opublikowano: 2026-11-02 09:36
-- Wartość: 6277622,63 PLN
-- CPV: 45000000, 45112720, 45212200, 45316100, 45311200, 45342000, 45262500, 45330000, 45410000, 45421100, 45431200, 45432111, 45432130, 45442100, 45100000, 45111291, 45200000, 45210000, 45300000, 45400000, 45331100
-- Dopasowanie: stolarka i ślusarka budowlana, wznoszenie ogrodzeń, zagospodarowanie terenu, miejsc postojow, kostki betonow, nawierzchni z kostki, wiat
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38c4-cc51-6600-e2d6-6b000120c3cb
-
-### [A] „Droga rowerowa na Suchanino – przedłużenie w rejonie stawu na Suchaninie”                       w ramach zadań BO 2024 – realizacja w trybie zaprojektuj i wybuduj.
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska (Gdańsk, pomorskie)
-- Termin ofert: **2026-11-19 10:00** · opublikowano: 2026-11-02 13:02
-- CPV: 45000000, 71250000, 71320000, 45233161, 45233162, 45233200
-- Dopasowanie: różne nawierzchnie, ścieżki piesze, ścieżki rowerowe, rowerow, małej architektur, wiat
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38e1-9bb7-388a-e2d6-6b000120ca93
-
-### [A] Przebudowa drogi gminnej nr 180616W ul. ks. J. Skorupki w Legionowie
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: Gmina Miejska Legionowo Urząd Miasta Legionowo (Legionowo, mazowieckie)
-- Termin ofert: **2026-11-19 11:30** · opublikowano: 2026-11-02 12:54
-- CPV: 45233140, 45111291, 45111200, 45112000, 45233222, 45233290
-- Dopasowanie: układanie chodników, zagospodarowanie terenu, poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38e0-7b81-be0f-e2d6-6b000120ca4f
-
-### [A] Wymiana stolarki drzwiowej wewnętrznej w budynku Centrum Zdrowia Psychicznego w Słupsku
-- Branża: metal
-- Źródło: BZP · Zamawiający: Centrum Zdrowia Psychicznego w Słupsku (Słupsk, pomorskie)
-- Termin ofert: **2026-11-20 08:00** · opublikowano: 2026-11-02 17:18
-- Wartość: 349040 PLN
-- CPV: 45421000, 45421131, 45312200, 45312100
+- Źródło: BZP · Zamawiający: MIEJSKIE TOWARZYSTWO BUDOWNICTWA SPOŁECZNEGO W GOSTYNINIE SPÓŁKA Z O.O. (Gostynin, mazowieckie)
+- Termin ofert: **2026-11-18 08:00** · opublikowano: 2026-11-03 12:16
+- CPV: 45400000, 45421100
 - Dopasowanie: stolarka i ślusarka budowlana
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3905-4751-6a5c-e2d6-6b000120cd9d
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a4-3bc2-3886-e2d6-6b000120db0f
 
-### [A] Polska – Usługi związane z odpadami – Świadczenie usługi w zakresie odbierania i zagospodarowania odpadów komunalnych od właścicieli nieruchomości zamieszkałych z terenu Gminy Raciąż w okresie styczeń 2027 r. – grudzień 2027 r.
-- Branża: nawierzchnie
-- Źródło: TED · Zamawiający: Gmina Raciąż (Raciąż, mazowieckie)
-- Termin ofert: **2026-12-01+01:00** · opublikowano: 2026-11-03
-- CPV: 90500000, 90514000, 90500000, 90514000, 90511000, 90512000
-- Dopasowanie: zagospodarowan
-- Link: https://ted.europa.eu/pl/notice/-/detail/760627-2026
+### [A] BUDOWA PLACU ZABAW PRZY ŻŁOBKU GMINNYM W CZERWINIE
+- Branża: metal
+- Źródło: BZP · Zamawiający: Gmina Czerwin (Czerwin, mazowieckie)
+- Termin ofert: **2026-11-18 08:00** · opublikowano: 2026-11-03 13:58
+- CPV: 37535200, 45111200, 45236210, 45112710
+- Dopasowanie: urządzenia placów zabaw, placu zabaw, altan, ogrodzen
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39b2-8c19-40ef-e2d6-6b000120de7e
 
-### [A] Polska – Usługi sadzenia roślin oraz utrzymania terenów zielonych – Park kieszonkowy przy ul. Wschodniej w Toruniu
+### [A] „Remont nawierzchni placu na części działki nr 20354  przy ul. Kurpiowskiej 8 w Ostrołęce”
 - Branża: metal + nawierzchnie
-- Źródło: TED · Zamawiający: Gmina Miasta Toruń (Toruń, kujawsko-pomorskie)
-- Termin ofert: **2026-12-01+01:00** · opublikowano: 2026-11-03
-- CPV: 77310000, 45233250, 71320000, 45000000, 45112710, 77300000
-- Dopasowanie: nawierzchnie (poza drogami), furtk, małej architektur, pergol, siłowni zewn
-- Link: https://ted.europa.eu/pl/notice/-/detail/761930-2026
+- Źródło: BZP · Zamawiający: OSTROŁĘCKIE TOWARZYSTWO BUDOWNICTWA SPOŁECZNEGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Ostrołęka, mazowieckie)
+- Termin ofert: **2026-11-18 09:00** · opublikowano: 2026-11-03 08:19
+- CPV: 45000000, 45233250, 45330000, 45311200
+- Dopasowanie: nawierzchnie (poza drogami), nawierzchni, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3983-37fa-d481-e2d6-6b000120d37a
 
-### [A] Polska – Usługi czyszczenia i opróżniania kanałów ściekowych – Konserwacja urządzeń odwadniających dróg krajowych, wojewódzkich i powiatowych na terenie m.st. Warszawy oraz eksploatacji separatorów wraz z odbiorem, transportem i utylizacją odpadów na terenie m.st. Warszawy Część 1: Rejon I – Żolibor
+### [A] Budowa kompleksu sportowego Orlik w miejscowości Nowe Grabie
+- Branża: metal
+- Źródło: BZP · Zamawiający: MIASTO I GMINA GĄBIN (Gąbin, mazowieckie)
+- Termin ofert: **2026-11-18 09:00** · opublikowano: 2026-11-03 09:52
+- CPV: 45212200, 45111200, 45342000
+- Dopasowanie: wznoszenie ogrodzeń, ogrodzen, piłkochwyt, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3990-2040-cf2c-e2d6-6b000120d640
+
+### [A] Wykonywanie konserwacji i napraw bieżących w branży kominiarskiej w budynkach gminnych
+- Branża: metal
+- Źródło: BZP · Zamawiający: Przedsiębiorstwo Gospodarki Mieszkaniowej Żyrardów Sp. z o.o. (Żyrardów, mazowieckie)
+- Termin ofert: **2026-11-18 09:00** · opublikowano: 2026-11-03 11:38
+- CPV: 90915000, 71356100
+- Dopasowanie: konserwacj
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df399e-f317-32c8-e2d6-6b000120d9cd
+
+### [A] Remont budynku mieszkalnego wielorodzinnego, przy ul. Kowieńskiej 23 w Warszawie – przejazd bramowy, realizacja decyzji PINB nr IIWT/274/2026 z dnia 12.08.2025.  Oznaczenie sprawy: DNZP.260.77.2026
+- Branża: metal
+- Źródło: BZP · Zamawiający: Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Północ m.st. Warszawy (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-18 11:00** · opublikowano: 2026-11-03 05:55
+- CPV: 45453000
+- Dopasowanie: bram, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df396f-0c21-3b91-e2d6-6b000120d106
+
+### [A] Świadczenie usług porządkowych oraz zimowego utrzymania chodników i terenów utwardzonych przez ekipy robocze
+- Branża: nawierzchnie
+- Źródło: BZP · Zamawiający: Przedsiębiorstwo Usług Komunalnych Piaseczno (Piaseczno, mazowieckie)
+- Termin ofert: **2026-11-18 11:00** · opublikowano: 2026-11-03 10:53
+- CPV: 90610000, 90611000, 90620000
+- Dopasowanie: chodnik
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3998-a53d-b0e7-e2d6-6b000120d848
+
+### [A] Polska – Usługi związane z odpadami – Udostępnienie i obsługa stacjonarnego Punktu Selektywnej Zbiórki Odpadów Komunalnych (PSZOK) oraz zagospodarowanie segregowanych odpadów komunalnych dostarczonych przez mieszkańców Gminy Lesznowola.
+- Branża: nawierzchnie
+- Źródło: TED · Zamawiający: Gmina Lesznowola (Lesznowola, mazowieckie)
+- Termin ofert: **2026-11-18+01:00** · opublikowano: 2026-11-04
+- CPV: 90500000, 90533000, 90500000, 90533000
+- Dopasowanie: zagospodarowan
+- Link: https://ted.europa.eu/pl/notice/-/detail/764249-2026
+
+### [A] TERMOMODERNIZACJA BUDYNKÓW MIESZKALNYCH W MIEŚCIE EŁK 
+ZADANIE NR 4 – TERMOMODERNIZACJA BUDYNKU MIESZKALNEGO 
+PRZY UL. ARMII KRAJOWEJ 38A W EŁKU
+- Branża: metal + nawierzchnie
+- Źródło: BZP · Zamawiający: Gmina Miasto Ełk (Ełk, warmińsko-mazurskie)
+- Termin ofert: **2026-11-19 08:00** · opublikowano: 2026-11-03 09:05
+- CPV: 45320000, 45443000, 45111000, 45262100, 45261210, 45233200, 45332300, 45330000, 45331100
+- Dopasowanie: różne nawierzchnie, kostki betonow, ogrodzen, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3989-8d42-6f20-e2d6-6b000120d4b0
+
+### [A] Zagospodarowanie terenu przy ul. Grodzkiej - utworzenie parku kieszonkowego Bulwarowy zakątek - zadanie Rozwój zielono-błękitnej infrastruktury na terenie Miasta Słupska, Fundusz Spójności
+- Branża: metal + nawierzchnie
+- Źródło: BZP · Zamawiający: Zarząd Infrastruktury Miejskiej w Słupsku (Słupsk, pomorskie)
+- Termin ofert: **2026-11-19 09:00** · opublikowano: 2026-11-03 12:59
+- CPV: 45000000, 45233253, 45112710, 45112711, 43325000
+- Dopasowanie: kształtowanie parków (mała architektura), nawierzchnie dróg dla pieszych, zagospodarowan, kostka betonowa, małej architektur, rzeźb, stojaki rower
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39aa-3c2d-f6a1-e2d6-6b000120dcbf
+
+### [A] Polska – Roboty budowlane – Budowa drogi rowerowej w ul. Bielskiej w ramach zadania „Rozwój infrastruktury mobilności indywidualnej na terenie miasta Płocka” i „Przebudowa ulicy Bielskiej”
+- Branża: metal
+- Źródło: TED · Zamawiający: MIEJSKI ZARZĄD DRÓG JEDNOSTKA BUDŻETOWA (Płock, mazowieckie)
+- Termin ofert: **2026-11-19+01:00** · opublikowano: 2026-11-04
+- CPV: 45000000, 45233120, 45231300, 45232130, 45316000, 45112710
+- Dopasowanie: rowerow
+- Link: https://ted.europa.eu/pl/notice/-/detail/766269-2026
+
+### [A] Modernizacja szatni i zaplecza socjalnego Stadionu Miejskiego w Pakości
+- Branża: metal
+- Źródło: BZP · Zamawiający: GMINA PAKOŚĆ (Pakość, kujawsko-pomorskie)
+- Termin ofert: **2026-11-20 09:00** · opublikowano: 2026-11-03 10:37
+- Wartość: 1727032,30 PLN
+- CPV: 45000000, 45262500, 45421100, 45421000, 45421131, 45430000, 45442100, 45442300, 45453000, 45332000, 45331100, 45331200, 45311000, 45311100, 45311200, 45310000, 45314310, 45315300, 45315600, 45316000, 31520000, 45317300, 45315100, 45312100, 39100000, 37440000
+- Dopasowanie: siłownie zewnętrzne / sprzęt fitness, stolarka i ślusarka budowlana, gablot, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3996-6655-72fe-e2d6-6b000120d7a8
+
+### [A] Polska – Roboty budowlane – Wykonanie robót budowlanych polegających na termomodernizacji i przebudowie budynku wraz z infrastrukturą techniczną Zespołu Szkół Spożywczych przy ul. Toruńskiej 174 w Bydgoszczy.
+- Branża: metal + nawierzchnie
+- Źródło: TED · Zamawiający: Miasto Bydgoszcz (Bydgoszcz, kujawsko-pomorskie)
+- Termin ofert: **2026-11-23+01:00** · opublikowano: 2026-11-04
+- CPV: 45000000, 45111291, 45111200, 45410000, 45421100, 45261000
+- Dopasowanie: stolarka i ślusarka budowlana, zagospodarowanie terenu
+- Link: https://ted.europa.eu/pl/notice/-/detail/764790-2026
+
+### [A] Polska – Usługi wycinania drzew – Usługa usunięcie drzew i krzewów na terenie Północnego Przedzamcza Muzeum Zamkowego w Malborku w ramach projektu pn. „Podniesienie atrakcyjności turystycznej zabytkowych budynków północnego Przedzamcza zespołu zamkowego w Malborku poprzez wykonanie prac konserwators
+- Branża: nawierzchnie
+- Źródło: TED · Zamawiający: Muzeum Zamkowe w Malborku (Malbork, pomorskie)
+- Termin ofert: **2026-11-24+01:00** · opublikowano: 2026-11-04
+- CPV: 77211400, 77211400
+- Dopasowanie: zagospodarowan
+- Link: https://ted.europa.eu/pl/notice/-/detail/763837-2026
+
+### [A] Polska – Usługi leśnictwa – Wykonywanie usług z zakresu gospodarki leśnej na terenie Nadleśnictwa Niedźwiady w roku 2027
+- Branża: metal
+- Źródło: TED · Zamawiający: Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Niedźwiady w Przechlewie (Przechlewo, pomorskie)
+- Termin ofert: **2026-11-24+01:00** · opublikowano: 2026-11-04
+- CPV: 77200000, 45342000, 77210000, 77211000, 77211100, 77211200
+- Dopasowanie: wznoszenie ogrodzeń
+- Link: https://ted.europa.eu/pl/notice/-/detail/764011-2026
+
+### [A] Polska – Usługi leśnictwa – Wykonywanie usług z zakresu gospodarki leśnej na terenie Nadleśnictwa Człuchów w roku 2027
+- Branża: metal
+- Źródło: TED · Zamawiający: Skarb Państwa - Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Człuchów (Człuchów, pomorskie)
+- Termin ofert: **2026-11-24+01:00** · opublikowano: 2026-11-04
+- CPV: 77200000, 77210000, 77211000, 77211100, 77211200, 77211300
+- Dopasowanie: wznoszenie ogrodzeń
+- Link: https://ted.europa.eu/pl/notice/-/detail/764512-2026
+
+### [A] Polska – Usługi leśnictwa – Wykonywanie usług z zakresu gospodarki leśnej na terenie Nadleśnictwa Łupawa w roku 2027
+- Branża: metal
+- Źródło: TED · Zamawiający: Skarb Państwa PGL LP Nadleśnictwo Łupawa (Łupawa, pomorskie)
+- Termin ofert: **2026-11-24+01:00** · opublikowano: 2026-11-04
+- CPV: 77200000, 77210000, 77211000, 77211100, 77211200, 77211300
+- Dopasowanie: wznoszenie ogrodzeń
+- Link: https://ted.europa.eu/pl/notice/-/detail/765462-2026
+
+### [A] Polska – Usługi związane z odpadami – Odbiór, transport i zagospodarowanie części odpadów komunalnych od właścicieli nieruchomości z terenu Gminy Dywity, prowadzenie PSZOK-u oraz odbiór i transport odpadów z obiektów użyteczności publicznej Gminy Dywity w okresie od 1 stycznia 2027r. do 31 grudnia 2
+- Branża: nawierzchnie
+- Źródło: TED · Zamawiający: Gmina Dywity (Dywity, warmińsko-mazurskie)
+- Termin ofert: **2026-12-04+01:00** · opublikowano: 2026-11-04
+- CPV: 90500000, 90511000, 90512000, 90513000, 90513100, 90500000
+- Dopasowanie: zagospodarowan
+- Link: https://ted.europa.eu/pl/notice/-/detail/764431-2026
+
+### [A] Polska – Usługi w zakresie napraw i konserwacji taboru kolejowego – Przegląd przetwornic typu PSM-81A i falowników typu FT500-3000-UF-M z pojazdów trakcyjnych EN57-Ald
+- Branża: metal
+- Źródło: TED · Zamawiający: POLREGIO S.A. (Warszawa, warmińsko-mazurskie)
+- Termin ofert: **2026-12-04+01:00** · opublikowano: 2026-11-04
+- CPV: 50222000, 50222000
+- Dopasowanie: konserwacj
+- Link: https://ted.europa.eu/pl/notice/-/detail/765240-2026
+
+### [A] Polska – Usługi w zakresie konserwacji sygnalizacji ulicznej – Utrzymanie w sprawności i bieżąca konserwacja oraz naprawy sygnalizacji świetlnych w latach 2027-2028 w ciągach dróg wojewódzkich administrowanych przez ZDW w Gdańsku
+- Branża: metal
+- Źródło: TED · Zamawiający: Zarząd Dróg Wojewódzkich w Gdańsku (Gdańsk, pomorskie)
+- Termin ofert: **2026-12-04+01:00** · opublikowano: 2026-11-04
+- CPV: 50232200, 50230000, 50232200, 50232200, 50232200, 50232200
+- Dopasowanie: konserwacj
+- Link: https://ted.europa.eu/pl/notice/-/detail/765566-2026
+
+### [A] Polska – Usługi wywozu odpadów pochodzących z gospodarstw domowych – Odbiór, transport i zagospodarowanie odpadów komunalnych z nieruchomości zamieszkałych położonych na terenie Gminy Jaktorów.
+- Branża: nawierzchnie
+- Źródło: TED · Zamawiający: Gmina Jaktorów (Jaktorów, mazowieckie)
+- Termin ofert: **2026-12-04+01:00** · opublikowano: 2026-11-04
+- CPV: 90513100, 90513200, 90512000, 90500000, 90533000, 90513200
+- Dopasowanie: zagospodarowan
+- Link: https://ted.europa.eu/pl/notice/-/detail/766814-2026
+
+### [A] Polska – Usługi w zakresie konserwacji oświetlenia ulicznego – Konserwacja urządzeń oświetlenia ulicznego na terenie m. st. Warszawy
 - Branża: metal
 - Źródło: TED · Zamawiający: Zarząd Dróg Miejskich w Warszawie (Warszawa, mazowieckie)
-- Termin ofert: **2026-12-03+01:00** · opublikowano: 2026-11-03
-- CPV: 90640000, 90000000, 45231113, 45231100, 90640000, 90640000
+- Termin ofert: **2026-12-08+01:00** · opublikowano: 2026-11-04
+- CPV: 50232100, 50232100, 50232100
 - Dopasowanie: konserwacj
-- Link: https://ted.europa.eu/pl/notice/-/detail/760781-2026
+- Link: https://ted.europa.eu/pl/notice/-/detail/764804-2026
 
-### [A] Polska – Usługi wywozu odpadów – Odbiór i zagospodarowanie odpadów komunalnych z terenu gminy Szczutowo
+### [A] Polska – Usługi wywozu odpadów – Odbiór i zagospodarowanie stałych odpadów komunalnych z terenu Gminy Płużnica na rok 2027 - II postępowanie
 - Branża: nawierzchnie
-- Źródło: TED · Zamawiający: Gmina Szczutowo (Szczutowo, mazowieckie)
-- Termin ofert: **2026-12-03+01:00** · opublikowano: 2026-11-03
-- CPV: 90511000, 90513100, 90512000, 90533000, 90511000, 90513100
+- Źródło: TED · Zamawiający: Gmina Płużnica (Płużnica, kujawsko-pomorskie)
+- Termin ofert: **2026-12-11+01:00** · opublikowano: 2026-11-04
+- CPV: 90511000, 90512000, 90513100, 90500000, 90533000, 90514000
 - Dopasowanie: zagospodarowan
-- Link: https://ted.europa.eu/pl/notice/-/detail/760930-2026
+- Link: https://ted.europa.eu/pl/notice/-/detail/766985-2026
 
-### [A] Polska – Usługi składowania i magazynowania – Usługa magazynowania, konfekcjonowania, wysyłki i transportu publikacji Instytutu Książki w 2027 roku
+### [A] Polska – Roboty budowlane w zakresie obiektów budowlanych dla służb porządku publicznego – KWP Olsztyn – budowa budynku administracyjno-biurowego z pomieszczeniami policyjnej strzelnicy ćwiczebnej i magazynami podręcznymi, Olsztyn ul. Pstrowskiego 3
 - Branża: metal
-- Źródło: TED · Zamawiający: INSTYTUT KSIĄŻKI (Kraków, mazowieckie)
-- Termin ofert: **2026-12-03+01:00** · opublikowano: 2026-11-03
-- CPV: 63120000, 79920000, 60000000, 63120000, 79920000, 60000000
+- Źródło: TED · Zamawiający: Komenda Wojewódzka Policji w Olsztynie (Olsztyn, warmińsko-mazurskie)
+- Termin ofert: **2026-12-15+01:00** · opublikowano: 2026-11-04
+- CPV: 45216110, 45100000, 45400000, 45216110, 45100000, 45330000
 - Dopasowanie: magazyn
-- Link: https://ted.europa.eu/pl/notice/-/detail/762800-2026
+- Link: https://ted.europa.eu/pl/notice/-/detail/763882-2026
 
-### [A] Polska – Usługi związane z odpadami – Zagospodarowanie odpadów komunalnych, które zostały odebrane od osób zamieszkujących na terenie Gminy Janikowo
+### [A] Polska – Usługi ochroniarskie – Świadczenie usługi bezpośredniej ochrony fizycznej osób i mienia na terenie nieruchomości przy ul. Poligonowej 3 w Warszawie, będącej w trwałym zarządzie Sądu Okręgowego Warszawa-Praga w Warszawie, oraz parkingu zewnętrznego usytuowanego przy ul. Poligonowej 30 w Wars
 - Branża: nawierzchnie
-- Źródło: TED · Zamawiający: Gmina Janikowo (Janikowo, kujawsko-pomorskie)
-- Termin ofert: **2026-12-03+01:00** · opublikowano: 2026-11-03
-- CPV: 90500000, 90533000, 90512000, 90500000, 90533000, 90512000
-- Dopasowanie: zagospodarowan
-- Link: https://ted.europa.eu/pl/notice/-/detail/763602-2026
+- Źródło: TED · Zamawiający: Sąd Okręgowy Warszawa-Praga w Warszawie (Warszawa, mazowieckie)
+- Termin ofert: **2026-12-15+01:00** · opublikowano: 2026-11-04
+- CPV: 79710000, 79710000
+- Dopasowanie: parking
+- Link: https://ted.europa.eu/pl/notice/-/detail/765039-2026
 
-### [A] Polska – Usługi w zakresie napraw i konserwacji sprzętu medycznego – Obsługa serwisowa aparatów ECMO i aparatów do krążenia pozaustrojowego w zakresie okresowych przeglądów technicznych oraz napraw.
+### [A] Polska – Usługi ochroniarskie – Świadczenie usług ochrony mienia na dwóch obiektach mostowych będących w zarządzie GDDKiA Oddział w Gdańsku w miejscowości Knybawa i Lipianki
 - Branża: metal
-- Źródło: TED · Zamawiający: Uniwersyteckie Centrum Kliniczne Warszawskiego Uniwersytetu Medycznego (Warszawa, mazowieckie)
-- Termin ofert: **2026-12-04+01:00** · opublikowano: 2026-11-03
-- CPV: 50421000, 50421000, 50421000, 50421000
+- Źródło: TED · Zamawiający: Generalna Dyrekcja Dróg Krajowych i Autostrad ul. Wronia 53, 00-874 Warszawa, Prowadzący postępowanie: Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Gdańsku (Gdańsk, pomorskie)
+- Termin ofert: **sprawdź** · opublikowano: 2026-11-04
+- CPV: 79710000, 79710000
+- Dopasowanie: most
+- Link: https://ted.europa.eu/pl/notice/-/detail/763853-2026
+
+### [A] Polska – Usługi w zakresie napraw i konserwacji sprzętu bezpieczeństwa – Przeglądy i konserwacja, usług napraw awaryjnych oraz demontażu i montażu systemów i urządzeń specjalistycznych do ochrony obiektów w jednostkach wojskowych będących na zaopatrzeniu 26 Wojskowego Oddziału Gospodarczego w Zegrzu
+- Branża: metal
+- Źródło: TED · Zamawiający: 26. Wojskowy Oddział Gospodarczy w Zegrzu (Zegrze, mazowieckie)
+- Termin ofert: **sprawdź** · opublikowano: 2026-11-04
+- CPV: 50610000, 50610000, 50610000, 50610000, 50610000, 50610000
 - Dopasowanie: konserwacj
-- Link: https://ted.europa.eu/pl/notice/-/detail/761161-2026
+- Link: https://ted.europa.eu/pl/notice/-/detail/763971-2026
 
-### [A] Polska – Przygotowanie terenu pod budowę – Budowa wielorodzinnych budynków mieszkalnych - ul. Pelplińska / Orląt Lwowskich w Bydgoszczy
-- Branża: nawierzchnie
-- Źródło: TED · Zamawiający: BYDGOSKIE TOWARZYSTWO BUDOWNICTWA SPOŁECZNEGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Bydgoszcz, kujawsko-pomorskie)
-- Termin ofert: **2026-12-04+01:00** · opublikowano: 2026-11-03
-- CPV: 45100000, 45111200, 45111291, 45330000, 45310000, 45100000
-- Dopasowanie: zagospodarowanie terenu
-- Link: https://ted.europa.eu/pl/notice/-/detail/762267-2026
-
-### [A] Polska – Roboty budowlane w zakresie budowy rurociągów, linii komunikacyjnych i elektroenergetycznych, autostrad, dróg, lotnisk i kolei; wyrównywanie terenu – Projekt i budowa obwodnicy Kowalewa Pomorskiego w ciągu drogi krajowej nr 15
+### [B] „Udzielenie i obsługa bankowa kredytu długoterminowego w wysokości 8 000 000,00 zł”.
 - Branża: metal
-- Źródło: TED · Zamawiający: Generalna Dyrekcja Dróg Krajowych i Autostrad (Bydgoszcz, kujawsko-pomorskie)
-- Termin ofert: **2026-12-09+02:00** · opublikowano: 2026-11-03
-- CPV: 45230000, 45110000, 45120000, 45220000, 45310000, 45340000
-- Dopasowanie: ogrodzenia, barierki, sprzęt ochronny, kowal, rurociąg, ogrodzen
-- Link: https://ted.europa.eu/pl/notice/-/detail/762919-2026
-
-### [B] Montaż, uruchomienie iluminacji i demontaż wraz z eksploatacją w czasie ekspozycji dekoracji świątecznych dla miasta Sopotu .
-- Branża: metal
-- Źródło: BZP · Zamawiający: GMINA MIASTA SOPOTU (Sopot, pomorskie)
-- Termin ofert: **2026-11-10 08:00** · opublikowano: 2026-11-02 11:53
-- CPV: 50232110, 51110000
-- Dopasowanie: wiat
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d7-e94e-0682-e2d6-6b000120c856
-
-### [B] Zakup mobilnej stacji uzdatniania wody
-- Branża: metal
-- Źródło: BZP · Zamawiający: GMINA WIENIAWA (Wieniawa, mazowieckie)
-- Termin ofert: **2026-11-10 08:00** · opublikowano: 2026-11-02 12:00
-- CPV: 42912330, 44613000, 45252126
+- Źródło: BZP · Zamawiający: POWIAT WYSZKOWSKI (Wyszków, mazowieckie)
+- Termin ofert: **2026-11-12 09:00** · opublikowano: 2026-11-03 11:49
+- CPV: 66113000
 - Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d8-f1d7-633d-e2d6-6b000120c889
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a0-8b9c-6bd3-e2d6-6b000120da28
 
-### [B] Dostawa media serwerów dla Teatru Wybrzeże
+### [B] Wykonanie i dostawa materiałów/artykułów konferencyjnych oraz informacyjno -  wystawienniczych.
 - Branża: metal
-- Źródło: BZP · Zamawiający: Teatr Wybrzeże (Gdańsk, pomorskie)
-- Termin ofert: **2026-11-10 08:00** · opublikowano: 2026-11-02 13:12
-- CPV: 30200000, 48000000
+- Źródło: BZP · Zamawiający: MINISTERSTWO INFRASTRUKTURY (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-12 10:00** · opublikowano: 2026-11-03 12:27
+- CPV: 39294100
 - Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38e2-fa56-4086-e2d6-6b000120cadc
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a5-ced3-558b-e2d6-6b000120db63
 
-### [B] „Usługa serwisu pogwarancyjnego dla urządzeń będących na wyposażeniu Zamawiającego”.
+### [B] Dostawy kompletów zabiegowych w kolorze niebieskim i zielonym na okres 24 miesięcy - znak sprawy: Z/110/PN/26
 - Branża: metal
-- Źródło: BZP · Zamawiający: Centrum Informatyczne Edukacji (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-10 09:00** · opublikowano: 2026-11-02 09:00
-- CPV: 72611000, 50312300, 50312000
+- Źródło: BZP · Zamawiający: Regionalny Szpital Specjalistyczny im. dr. Władysława Biegańskiego (Grudziądz, kujawsko-pomorskie)
+- Termin ofert: **2026-11-12 11:00** · opublikowano: 2026-11-03 12:35
+- CPV: 33199000
 - Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38bf-c6cd-ec2b-e2d6-6b000120c291
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a6-e949-21ef-e2d6-6b000120dbb2
 
-### [B] wymiana wodomierzy i doposażenie w nowe wodomierze wyposażone w moduły umożliwiające zdalny, radiowy odczyt zużycia ciepłej i zimnej wody, w nieruchomościach znajdujących się w zasobie Skarbu Państwa.
+### [B] DOSTAWA SPRZĘTU W RAMACH OCHRONY LUDNOŚCI I OBRONY CYWILNEJ W DZIELNICY WESOŁA m.st WARSZAWY – WYPOSAŻENIE RATOWNICZE I TECHNICZNE
 - Branża: metal
-- Źródło: BZP · Zamawiający: Zarząd Mienia Skarbu Państwa (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-10 09:00** · opublikowano: 2026-11-02 11:24
-- CPV: 38421100
+- Źródło: BZP · Zamawiający: Miasto Stołeczne Warszawa Dzielnica Wesoła (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-13 09:00** · opublikowano: 2026-11-03 13:42
+- Wartość: 267752,86 PLN
+- CPV: 35112000, 32236000, 32237000, 42921200, 38431100, 38543000, 38651600, 35111000, 35111510, 38341300, 42990000, 44511000, 44511100, 34911100, 39522110, 18930000, 18937000, 43812000, 43830000, 42650000, 35113000, 39541100, 18444110
 - Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d3-edb2-dabe-e2d6-6b000120c76e
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39b0-469f-5117-e2d6-6b000120de0c
 
-### [B] „Przebudowa ZSO nr 1 - dokumentacja”, Zespół Szkół Ogólnokształcących nr 1 w Kwidzynie, ul. Stanisława Konarskiego 12, 82-500 Kwidzyn.
+### [B] Prace związane ze świadczeniem usług na okresową kontrolę stanu technicznego sprawności przewodów kominowych oraz usuwanie zanieczyszczeń z przewodów kominowych. Oznaczenie sprawy: DNZP.260.80.2026
 - Branża: metal
-- Źródło: BZP · Zamawiający: Powiat Kwidzyński- Starostwo Powiatowe w Kwidzynie (Kwidzyn, pomorskie)
-- Termin ofert: **2026-11-10 11:00** · opublikowano: 2026-11-02 12:03
-- CPV: 71220000, 71223000, 71222000, 71221000, 71250000, 71240000, 71230000, 71210000, 71500000, 71400000, 71300000, 71200000
+- Źródło: BZP · Zamawiający: Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Północ m.st. Warszawy (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-13 10:00** · opublikowano: 2026-11-03 06:01
+- CPV: 90915000
 - Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d9-4e94-cd75-e2d6-6b000120c8b7
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df396f-eb42-0329-e2d6-6b000120d10b
 
-### [B] Dostęp do usług sportowo-rekreacyjnych dla pracowników Sądu Rejonowego w Olsztynie w okresie 2027-2028.
+### [B] Prace związane ze świadczeniem usług konserwacyjnych oraz usuwanie awarii urządzeń dźwigowych.  Oznaczenie sprawy: DNZP.260.79.2026
 - Branża: metal
-- Źródło: BZP · Zamawiający: Sąd Rejonowy w Olsztynie (Olsztyn, warmińsko-mazurskie)
-- Termin ofert: **2026-11-12 08:00** · opublikowano: 2026-11-02 09:04
-- CPV: 92000000
+- Źródło: BZP · Zamawiający: Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Północ m.st. Warszawy (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-13 11:00** · opublikowano: 2026-11-03 09:59
+- CPV: 50531400, 50730000, 50343000
 - Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38c0-5615-3817-e2d6-6b000120c2af
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3991-37f2-8438-e2d6-6b000120d684
 
-### [B] DOSTAWA DROBIU I WĘDLIN DROBIOWYCH
+### [B] DOSTAWA JAJ, RYB I PRZETWORÓW RYBNYCH ORAZ PRODUKTÓW GŁĘBOKO MROŻONYCH
 - Branża: metal
 - Źródło: BZP · Zamawiający: Wojskowy Ośrodek Szkoleniowo-Kondycyjny Mrągowo (Mrągowo, warmińsko-mazurskie)
-- Termin ofert: **2026-11-12 08:00** · opublikowano: 2026-11-02 09:31
-- Wartość: 247694,72 PLN
-- CPV: 15131500, 15131135
+- Termin ofert: **2026-11-16 08:00** · opublikowano: 2026-11-03 09:56
+- Wartość: 184317,90 PLN
+- CPV: 03142500, 15200000, 15896000
 - Dopasowanie: wiat
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38c4-2256-3ae0-e2d6-6b000120c3b1
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3990-c9e5-63d5-e2d6-6b000120d669
 
-### [B] Świadczenie usług opiekuńczych na terenie Gminy Stara Biała
-- Branża: metal
-- Źródło: BZP · Zamawiający: GMINA STARA BIAŁA (Biała, mazowieckie)
-- Termin ofert: **2026-11-12 08:00** · opublikowano: 2026-11-02 10:14
-- CPV: 85000000, 85311100
-- Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38ca-1e2d-1901-e2d6-6b000120c510
-
-### [B] DOSTAWA MLEKA I PRZETWORÓW MLECZARSKICH
+### [B] DOSTAWA OWOCÓW, WARZYW ŚWIEŻYCH I KWASZONYCH
 - Branża: metal
 - Źródło: BZP · Zamawiający: Wojskowy Ośrodek Szkoleniowo-Kondycyjny Mrągowo (Mrągowo, warmińsko-mazurskie)
-- Termin ofert: **2026-11-12 08:00** · opublikowano: 2026-11-02 11:22
-- Wartość: 405440,36 PLN
-- CPV: 15500000
+- Termin ofert: **2026-11-16 08:00** · opublikowano: 2026-11-03 11:12
+- Wartość: 352969,11 PLN
+- CPV: 03200000
 - Dopasowanie: wiat
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d3-86eb-af6d-e2d6-6b000120c750
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df399b-53ac-87ab-e2d6-6b000120d8ea
 
-### [B] Modernizacja systemu Zintegrowana Platforma Wymiany Danych
+### [B] Dostawa koncentratów do dializ na potrzeby Szpitala Wielospecjalistycznego im. dr. Ludwika Błażka w Inowrocławiu
 - Branża: metal
-- Źródło: BZP · Zamawiający: Miasto Stołeczne Warszawa - Straż Miejska m.st. Warszawy (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-12 08:00** · opublikowano: 2026-11-02 15:55
-- CPV: 72000000
+- Źródło: BZP · Zamawiający: Szpital Wielospecjalistyczny im. dr.L udwika Błażka w Inowrocławiu (Inowrocław, kujawsko-pomorskie)
+- Termin ofert: **2026-11-16 09:00** · opublikowano: 2026-11-03 08:25
+- CPV: 33181520
 - Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38f9-b7e1-aeb4-e2d6-6b000120cd4d
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3984-136f-178e-e2d6-6b000120d3a7
 
-### [B] Usługi naprawcze/usuwanie uszkodzeń i awarii w budynkach, obiektach niezabudowanych i innych nieruch. znajdujących się w zasobie SP, na terenie m.st. W-wy, w zakresie branży sanitarnej.
+### [B] Polska – Urządzenia medyczne – Dostawy asortymentu wielorazowego na okres 24 miesięcy - sprawa nr Z/95/PN/26
 - Branża: metal
-- Źródło: BZP · Zamawiający: Zarząd Mienia Skarbu Państwa (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-16 09:00** · opublikowano: 2026-11-02 08:24
-- Wartość: 184700,05 PLN
-- CPV: 50700000
+- Źródło: TED · Zamawiający: Regionalny Szpital Specjalistyczny im. dr Władysława Biegańskiego (Grudziądz, kujawsko-pomorskie)
+- Termin ofert: **2026-11-16+01:00** · opublikowano: 2026-11-04
+- CPV: 33100000, 33100000, 33100000, 33100000, 33100000, 33100000
+- Dopasowanie: spawa
+- Link: https://ted.europa.eu/pl/notice/-/detail/764085-2026
+
+### [B] Dostawa kory sosnowej do uzupełnienia złoża biofiltra kompostowni halowej obiekt nr 16
+- Branża: metal
+- Źródło: BZP · Zamawiający: "EKO DOLINA" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Łężyce, pomorskie)
+- Termin ofert: **2026-11-17 12:00** · opublikowano: 2026-11-03 14:00
+- CPV: 03416000, 03410000
 - Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38ba-c105-82ac-e2d6-6b000120c167
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39b2-c7e0-31f8-e2d6-6b000120de88
 
-### [B] Przebudowa drogi gminnej Nr 190022N Nidzica-Bartoszki-Etap I
-- Branża: nawierzchnie
-- Źródło: BZP · Zamawiający: Gmina Nidzica (Nidzica, warmińsko-mazurskie)
-- Termin ofert: **2026-11-17 08:00** · opublikowano: 2026-11-02 07:08
-- Wartość: 5127453,18 PLN
-- CPV: 45233120, 45111200, 45111300, 45111000, 45112200, 45112710, 45233290, 45233129, 45231300, 45233000
-- Dopasowanie: kostki betonow
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38b0-1256-36f1-e2d6-6b000120bf6b
-
-### [B] Budowa drogi leśnej wywozowej nr 165 w leśnictwie Zielony Dwór
+### [B] Remont czterech mieszkań komunalnych położonych w Tczewie
 - Branża: metal
-- Źródło: BZP · Zamawiający: Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Bytów (Bytów, pomorskie)
-- Termin ofert: **2026-11-17 08:00** · opublikowano: 2026-11-02 14:21
-- Wartość: 1310040,39 PLN
-- CPV: 45000000, 45200000, 45230000, 45233000, 45233100, 45233120, 45233124
+- Źródło: BZP · Zamawiający: Tczewskie Towarzystwo Budownictwa Społecznego Sp. z o.o. (Tczew, pomorskie)
+- Termin ofert: **2026-11-18 08:00** · opublikowano: 2026-11-03 06:50
+- CPV: 45000000, 45310000, 45440000, 45330000, 45430000
 - Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38ec-93fb-9ed9-e2d6-6b000120cc98
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3976-c37d-cc32-e2d6-6b000120d162
 
-### [B] Budowę systemu monitoringu wizyjnego w miejscowości Gródek Krajeński w ramach zadań pn.: (...)
-- Branża: metal
-- Źródło: BZP · Zamawiający: Związek Gmin Nakło nad Notecią - Łobżenica (Nakło nad Notecią, kujawsko-pomorskie)
-- Termin ofert: **2026-11-25 08:00** · opublikowano: 2026-11-02 12:12
-- CPV: 45312200, 32323500, 35125300, 45111200, 45311200, 45314300, 32342400, 71355000
-- Dopasowanie: altan
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38da-8cf3-db4d-e2d6-6b000120c907
+### [B] Budowa ulicy Jasnej (173221G) w Łęgowie (etap II)
+- Branża: metal + nawierzchnie
+- Źródło: BZP · Zamawiający: Gmina Pruszcz Gdański (Juszkowo, pomorskie)
+- Termin ofert: **2026-11-18 08:00** · opublikowano: 2026-11-03 08:23
+- CPV: 45233120, 45100000, 32412100
+- Dopasowanie: furtk, kostki betonow, nawierzchni z kostki, ogrodzen
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3983-b6ca-fca8-e2d6-6b000120d398
 
-### [B] Polska – Implanty ortopedyczne – D-44/N/26 Dostawa implantów ortopedycznych, endoprotez, systemów rewizyjnych, materiałów do rekonstrukcji więzadeł, opatrunków specjalistycznych, rękawic chirurgicznych ortopedycznych w podziale na 23 części w okresie 24 miesięcy
+### [B] Wykonanie robót remontowych w zakresie: robót budowlanych, sanitarnych i elektrycznych w placówkach oświatowych na terenie Dzielnicy Praga-Południe m. st. Warszawy
 - Branża: metal
-- Źródło: TED · Zamawiający: Międzyleski Szpital Specjalistyczny w Warszawie (Warszawa, mazowieckie)
-- Termin ofert: **2026-12-07+01:00** · opublikowano: 2026-11-03
-- CPV: 33183100, 33140000, 33141420, 18800000, 33183100, 33183100
-- Dopasowanie: nierdzewn, stali nierdzewn
-- Link: https://ted.europa.eu/pl/notice/-/detail/760810-2026
+- Źródło: BZP · Zamawiający: Urząd m.st. Warszawy Dzielnica Praga-Południe (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-18 09:00** · opublikowano: 2026-11-03 10:28
+- CPV: 45453000, 45310000, 45330000, 45331000, 45331100, 45333000, 45110000
+- Dopasowanie: poręcz, spawa
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3995-4472-ff40-e2d6-6b000120d769
+
+### [B] Poprawa efektywności energetycznej budynków oświatowych na terenie Gminy Platerów
+- Branża: metal
+- Źródło: BZP · Zamawiający: Gmina Platerów (Platerów, mazowieckie)
+- Termin ofert: **2026-11-18 09:00** · opublikowano: 2026-11-03 10:52
+- CPV: 45300000, 45000000, 71220000, 71320000, 45331000, 45111200, 45262220, 45331220, 76300000, 76431000, 76490000, 71351910, 45310000, 45311000, 09331200, 09332000, 71314300, 71630000, 71332000
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3998-9ba5-362a-e2d6-6b000120d845
+
+### [B] Budowa przyłączy kanalizacyjnych do budynków mieszkalnych administrowanych przez ZGN w Dzielnicy Wawer m.st. Warszawy
+- Branża: metal
+- Źródło: BZP · Zamawiający: ZAKŁAD GOSPODAROWANIA NIERUCHOMOŚCIAMI W DZIELNICY WAWER M.ST.WARSZAWY (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-18 09:00** · opublikowano: 2026-11-03 11:35
+- Wartość: 176432,47 PLN
+- CPV: 45232410, 45111200
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df399e-9382-5bfc-e2d6-6b000120d9b1
+
+### [B] Bieżące utrzymanie mieszkaniowego zasobu m.st. Warszawy administrowanego przez ZGN w Dzielnicy Praga-Północ w sprawności technicznej w zakresie branży elektrycznej.
+Ozn. sprawy: DNZP.260.76.2026
+- Branża: metal
+- Źródło: BZP · Zamawiający: Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Północ m.st. Warszawy (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-18 10:00** · opublikowano: 2026-11-03 05:51
+- CPV: 45310000, 45453000, 45000000
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df396e-86a4-3ca4-e2d6-6b000120d101
+
+### [B] Dostawa oleju opałowego lekkiego dla potrzeb Powiatowego Szpitala w Aleksandrowie Kujawskim Sp. z o.o.
+- Branża: metal
+- Źródło: BZP · Zamawiający: POWIATOWY SZPITAL W ALEKSANDROWIE KUJAWSKIM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Aleksandrów Kujawski, kujawsko-pomorskie)
+- Termin ofert: **2026-11-18 11:00** · opublikowano: 2026-11-03 13:34
+- CPV: 09135100
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39af-228f-0e8e-e2d6-6b000120ddd6
+
+### [B] Bieżące utrzymanie mieszkaniowego zasobu m.st. Warszawy administrowanego przez ZGN w Dzielnicy Praga-Północ w sprawności technicznej w zakresie branży sanitarnej.
+Ozn. sprawy: DNZP.260.78.2026
+- Branża: metal
+- Źródło: BZP · Zamawiający: Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Północ m.st. Warszawy (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-18 12:00** · opublikowano: 2026-11-03 05:58
+- CPV: 45330000, 45453000, 45000000
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df396f-7acb-0749-e2d6-6b000120d107
+
+### [B] Odbudowa całkowita kaplicy grobowej rodziny von Schenk zu Tautenberg na dz. nr 25, obręb Kamionki
+- Branża: metal
+- Źródło: BZP · Zamawiający: GMINA GIŻYCKO (Giżycko, warmińsko-mazurskie)
+- Termin ofert: **2026-11-19 09:00** · opublikowano: 2026-11-03 08:09
+- Wartość: 772919,68 PLN
+- CPV: 45000000
+- Dopasowanie: balustrad, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3981-d17c-96f0-e2d6-6b000120d331
+
+### [B] BUDOWA STACJI UZDATNIANIA WODY W MIEJSCOWOŚCI STARKOWO
+- Branża: metal
+- Źródło: BZP · Zamawiający: GMINA TRZEBIELINO (Trzebielino, pomorskie)
+- Termin ofert: **2026-11-19 10:00** · opublikowano: 2026-11-03 10:14
+- CPV: 45252126
+- Dopasowanie: ogrodzen, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3993-341f-c960-e2d6-6b000120d6f0
+
+### [B] Przebudowa i remont ulicy bocznej od Kasztanowej w Michałowicach
+- Branża: metal + nawierzchnie
+- Źródło: BZP · Zamawiający: GMINA MICHAŁOWICE (Reguły, mazowieckie)
+- Termin ofert: **2026-11-23 11:30** · opublikowano: 2026-11-03 11:07
+- CPV: 45233120, 45233000, 45111000, 45100000, 45113000, 45111200
+- Dopasowanie: kostki betonow, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df399a-b3de-16f8-e2d6-6b000120d8c2
+
+### [B] Polska – Usługi leśnictwa – Wykonie usług z zakresu gospodarki leśnej na terenie Nadleśnictwa Trzebielino w roku 2027
+- Branża: metal
+- Źródło: TED · Zamawiający: Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Trzebielino (Trzebielino, pomorskie)
+- Termin ofert: **2026-11-24+01:00** · opublikowano: 2026-11-04
+- CPV: 77200000, 77210000, 77211000, 77211100, 77211200, 77211300
+- Dopasowanie: wiat
+- Link: https://ted.europa.eu/pl/notice/-/detail/767330-2026
+
+### [B] Polska – Sprzęt wystawowy – Wykonanie modernizacji wystawy stałej Muzeum Historii Torunia w Domu Eskenów, projekt i wykonanie wystawy planszowej we współpracy z partnerem zagranicznym
+- Branża: metal
+- Źródło: TED · Zamawiający: Muzeum Okręgowe w Toruniu (Toruń, kujawsko-pomorskie)
+- Termin ofert: **2026-11-25+01:00** · opublikowano: 2026-11-04
+- CPV: 39154000, 31200000, 31000000, 32321200, 32321300, 32322000
+- Dopasowanie: gablot
+- Link: https://ted.europa.eu/pl/notice/-/detail/766020-2026
+
+### [B] Polska – Produkty farmaceutyczne – „Dostawa płynów infuzyjnych, roztworów leczniczych oraz produktów do żywienia dojelitowego i pozajelitowego”
+- Branża: metal
+- Źródło: TED · Zamawiający: Szpital Kliniczny Ministerstwa Spraw Wewnętrznych i Administracji z Warmińsko-Mazurskim Centrum Onkologii w Olsztynie (OLSZTYN, warmińsko-mazurskie)
+- Termin ofert: **2026-12-04+01:00** · opublikowano: 2026-11-04
+- CPV: 33600000, 33692000, 33692510, 33692200, 33693000, 33692000
+- Dopasowanie: molo
+- Link: https://ted.europa.eu/pl/notice/-/detail/765814-2026
 
 ## Wszystkie aktywne
 
@@ -1338,153 +1428,6 @@ w m. Sarbinowo Drugie
 - CPV: 90500000, 90500000
 - Dopasowanie: zagospodarowan
 - Link: https://ted.europa.eu/pl/notice/-/detail/750847-2026
-
-### [A] Roboty remontowe nawierzchni asfaltowych w kompleksach wojskowych m. Wicko Morskie, m. Ustka, m. Słupsk.
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: 6 Wojskowy Oddział Gospodarczy (Lędowo-Osiedle, pomorskie)
-- Termin ofert: **2026-11-03 06:55** · opublikowano: 2026-10-19 06:48
-- CPV: 45453000
-- Dopasowanie: nawierzchni, poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2dac-f546-bd3d-701a-d000019f8926
-
-### [A] Remont pokrycia dachowego na hali sportowej wraz z obróbkami w Szkole Podstawowej nr 195 przy ul. Króla Maciusia 5 w Warszawie
-- Branża: metal
-- Źródło: BZP · Zamawiający: Urząd m.st. Warszawy-Urząd Dzielnicy Wawer (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-03 08:00** · opublikowano: 2026-10-19 10:17
-- CPV: 45000000, 45111300, 45261320, 45410000, 45324000, 45261910, 45261210
-- Dopasowanie: hali
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2dca-332c-5af0-701a-d000019f8e22
-
-### [A] „Modernizacja miejsca rekreacji nad jeziorem Bublik”
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: Gmina Konarzyny (Konarzyny, pomorskie)
-- Termin ofert: **2026-11-03 08:00** · opublikowano: 2026-10-19 12:03
-- CPV: 45453000, 44112100, 45111220, 45111300, 45200000, 45420000, 45223800, 45442300, 45233250, 45233293
-- Dopasowanie: konstrukcje budowlane różne (wiaty, zadaszenia), nawierzchnie (poza drogami), kostki betonow, małej architektur, spawa, wiat, zadaszen, ślusar
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2dd8-f142-8d22-701a-d0000132da5a
-
-### [A] Budowa kompleksu boisk sportowych Orlik (edycja 2025) w Potulicach
-- Branża: metal
-- Źródło: BZP · Zamawiający: Gmina Nakło nad Notecią (Nakło nad Notecią, kujawsko-pomorskie)
-- Termin ofert: **2026-11-03 08:00** · opublikowano: 2026-10-19 12:07
-- CPV: 45000000, 45236119
-- Dopasowanie: boisk, małej architektur, ogrodzen, piłkochwyt, stojaki rower
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2dd9-9865-cd38-701a-d0000132da83
-
-### [A] Przebudowa Centralnego Laboratorium Mechaniki i Budownictwa oraz budowa miejsc parkingowych wraz z infrastrukturą towarzyszącą – parking - etap IV
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: POLITECHNIKA WARSZAWSKA (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-03 09:00** · opublikowano: 2026-10-13 10:06
-- CPV: 45000000, 45231300, 45231000, 45213312
-- Dopasowanie: miejsc parkingow, parking, kostki brukow, poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2911-b772-cdbe-5997-b20001879886
-
-### [A] Wykonanie robót budowlanych polegających na budowie budynku magazynowego na terenie Stadionu Miejskiego im. Marszałka Józefa Piłsudskiego przy ul. Sportowej 2 w Bydgoszczy
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: Miasto Bydgoszcz (Bydgoszcz, kujawsko-pomorskie)
-- Termin ofert: **2026-11-03 09:00** · opublikowano: 2026-10-15 12:08
-- CPV: 45000000, 45310000, 45330000, 45111300, 45111200, 45262310, 45262300, 45262400, 45233250, 45320000, 45421000, 45261320, 45260000, 45231300, 45400000, 45332400
-- Dopasowanie: nawierzchnie (poza drogami), stolarka i ślusarka budowlana, wznoszenie konstrukcji stalowych, magazyn, konstrukcji stalow, poręcz, wiat
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2ab5-0557-7e52-5997-b20001a1e25f
-
-### [A] 564/2026 Remont pustostanów w budynku mieszkalnym przy ul. Włókienniczej 51 m 13 i ul. Włókienniczej 51 m 24 w Warszawie.
-- Branża: metal
-- Źródło: BZP · Zamawiający: ZAKŁAD GOSPODAROWANIA NIERUCHOMOŚCIAMI W DZIELNICY WAWER M.ST.WARSZAWY (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-03 09:00** · opublikowano: 2026-10-19 05:27
-- CPV: 45400000, 45421000, 45332300, 45332400
-- Dopasowanie: stolarka i ślusarka budowlana
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2da1-b7a6-8979-701a-d000019f08cb
-
-### [A] Modernizacja boiska sportowego w miejscowości Łąck
-- Branża: metal
-- Źródło: BZP · Zamawiający: Gmina Łąck (Łąck, mazowieckie)
-- Termin ofert: **2026-11-03 09:00** · opublikowano: 2026-10-19 08:13
-- CPV: 45212200, 45232452, 45212210, 45236119
-- Dopasowanie: boisk, ogrodzen, poręcz, wiat
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2db8-e801-1aba-701a-d000019f8b03
-
-### [A] Wymiana nawierzchni z trawy syntetycznej na boisku sportowym przy Szkole 
-Podstawowej nr 86 przy ul. Korynckiej 33 w Warszawie
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: Urząd m.st. Warszawy-Urząd Dzielnicy Wawer (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-03 09:00** · opublikowano: 2026-10-19 10:22
-- CPV: 45000000, 45212221
-- Dopasowanie: boisk, nawierzchni
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2dca-db6d-e311-701a-d000019f8e3f
-
-### [A] Modernizacja infrastruktury przystankowej w podziale na części.
-- Branża: metal
-- Źródło: BZP · Zamawiający: GMINA RADZYMIN (Radzymin, mazowieckie)
-- Termin ofert: **2026-11-03 09:00** · opublikowano: 2026-10-19 11:05
-- CPV: 45233000, 45222000, 71320000
-- Dopasowanie: przystan, przystank, wiat
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2dd0-e106-2d1c-701a-d000019f8f5a
-
-### [A] „Przebudowa drogi gminnej nr 110443C w miejscowości Świętosław”
-- Branża: nawierzchnie
-- Źródło: BZP · Zamawiający: Gmina Ciechocin (Ciechocin, kujawsko-pomorskie)
-- Termin ofert: **2026-11-03 09:00** · opublikowano: 2026-10-19 12:03
-- CPV: 45233123, 45233140, 45100000, 45110000, 45233220, 45233222, 71351810
-- Dopasowanie: układanie chodników, kostki betonow, nawierzchni z kostki
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2dd8-f6e1-e1a9-701a-d0000132da5c
-
-### [A] Budowa drogi dla pieszych i rowerów wzdłuż drogi powiatowej nr 4132W ul. Niepokalanowskiej na odcinku o dł. ok. 1250 mb, gm. Kampinos
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: Powiat Warszawski Zachodni, Zarząd Dróg Powiatowych w Ożarowie Mazowieckim (Ożarów Mazowiecki, mazowieckie)
-- Termin ofert: **2026-11-03 09:00** · opublikowano: 2026-10-19 17:00
-- CPV: 45233120, 45233222, 45233140, 45231400, 45316110
-- Dopasowanie: układanie chodników, kostki betonow, kostki kamienn, nawierzchni z kostki, nawierzchnia z kostki, poręcz, płyt ażurow
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2e02-889e-8a05-701a-d00001b6462b
-
-### [A] Odbiór i zagospodarowanie odpadów komunalnych pochodzących z nieruchomości, na których zamieszkują mieszkańcy, położonych na terenie Gminy Wodynie
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: Gmina Wodynie (Wodynie, mazowieckie)
-- Termin ofert: **2026-11-03 09:00** · opublikowano: 2026-10-22 13:07
-- CPV: 90500000, 90511000, 90511300, 90512000, 90533000, 90513100, 90514000
-- Dopasowanie: zagospodarowan, poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df303d-7858-05cd-701a-d000016a15f9
-
-### [A] Rozbudowa placu zabaw na terenie Spółdzielni Mieszkaniowej im Mickiewicza Część I: Rozbudowa placu zabaw dla dzieci starszych na terenie Spółdzielni Mieszkaniowej im Mickiewicza w Sopocie
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: GMINA MIASTA SOPOTU (Sopot, pomorskie)
-- Termin ofert: **2026-11-03 10:00** · opublikowano: 2026-10-19 10:11
-- CPV: 37535200, 45112723, 45233200, 45233220
-- Dopasowanie: różne nawierzchnie, urządzenia placów zabaw, placu zabaw
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2dc9-5f47-c01e-701a-d000019f8dfe
-
-### [A] Budowa zbiornika retencyjnego wraz z infrastrukturą towarzyszącą w Skarszewach
-- Branża: metal
-- Źródło: BZP · Zamawiający: Gmina Skarszewy (Skarszewy, pomorskie)
-- Termin ofert: **2026-11-03 10:00** · opublikowano: 2026-10-19 15:59
-- CPV: 45000000, 45111200, 45232130, 45232454, 45316100, 45310000, 45233140, 45233120
-- Dopasowanie: zbiornik, małej architektur, poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2dfa-00e2-f551-701a-d00001b64613
-
-### [A] Remont budynku administracyjnego, wymiana okien, wymiana instalacji
-centralnego ogrzewania, instalacji elektrycznej, wymiana podłóg posadzek w
-Rejonie w Bożej Woli OD w Bożej Woli
-- Branża: metal
-- Źródło: BZP · Zamawiający: GENERALNA DYREKCJA DRÓG KRAJOWYCH I AUTOSTRAD ODDZIAŁ W WARSZAWIE (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-03 10:30** · opublikowano: 2026-10-13 07:22
-- CPV: 45000000, 45111300, 45453000, 45100000, 45262300, 45450000, 44112200, 45310000, 45332400, 45410000, 31430000, 31600000
-- Dopasowanie: konstrukcje budowlane różne (wiaty, zadaszenia)
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df28fa-bbf5-ecfd-5997-b20001d88d2a
-
-### [A] „Dostawa i montaż materiałów branży elektrycznej w ramach realizacji inwestycji „ Budowa miejsca ukrycia dla ludności wraz z pomieszczeniami magazynowo garażowymi, ul. Mickiewicza 60, 87-600 Lipno”
-- Branża: metal
-- Źródło: BZP · Zamawiający: "DROGI POWIATOWE LIPNO" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Lipno, kujawsko-pomorskie)
-- Termin ofert: **2026-11-03 11:00** · opublikowano: 2026-10-27 14:51
-- CPV: 45311000, 45231400
-- Dopasowanie: magazyn
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3439-cb09-0c9c-f0a0-c4000171d75d
-
-### [A] Remont magazynu przy ul. Mszczonowskiej 65 w Nadarzynie
-- Branża: metal
-- Źródło: BZP · Zamawiający: Powiat Pruszkowski (Pruszków, mazowieckie)
-- Termin ofert: **2026-11-03 12:00** · opublikowano: 2026-10-20 13:55
-- CPV: 45000000, 45200000, 45400000, 45300000, 45260000, 45310000, 45450000, 45261210, 45261410, 45331000, 45453000, 45421148, 71220000, 71320000, 45330000
-- Dopasowanie: stolarka i ślusarka budowlana, magazyn, poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2eb1-d40f-6e92-701a-d000013b073a
 
 ### [A] Polska – Usługi związane z odpadami – Odbiór i zagospodarowanie odpadów komunalnych z nieruchomości, na których nie zamieszkują mieszkańcy a powstają odpady komunalne, położonych na terenie Gminy Lesznowola.
 - Branża: nawierzchnie
@@ -2943,6 +2886,14 @@ wraz z macierzą dyskową i systemem kopii zapasowych
 - Dopasowanie: magazyn
 - Link: https://ted.europa.eu/pl/notice/-/detail/762844-2026
 
+### [A] Polska – Usługi sadzenia roślin oraz utrzymania terenów zielonych – Usługa zagospodarowania terenów zielonych w ramach projektu pod nazwą: „Ochrona bioróżnorodności oraz walorów przyrodniczo-krajobrazowych na terenie Wojewódzkiego Szpitala Specjalistycznego w Olsztynie” – powtórka 3
+- Branża: nawierzchnie
+- Źródło: TED · Zamawiający: Wojewódzki Szpital Specjalistyczny w Olsztynie (Olsztyn, warmińsko-mazurskie)
+- Termin ofert: **2026-11-09+01:00** · opublikowano: 2026-11-04
+- CPV: 77310000, 77310000
+- Dopasowanie: zagospodarowan
+- Link: https://ted.europa.eu/pl/notice/-/detail/767052-2026
+
 ### [A] Polska – Usługi obróbki i usuwania odpadów, które nie są niebezpieczne – Usługa transportu i dalszego zagospodarowania odpadów - rozdrobnionych odpadów wielkogabarytowych i balastowych.
 - Branża: nawierzchnie
 - Źródło: TED · Zamawiający: Przedsiębiorstwo Gospodarki Komunalnej w Płońsku Sp. z o.o. (Płońsk, mazowieckie)
@@ -3207,6 +3158,14 @@ wraz z macierzą dyskową i systemem kopii zapasowych
 - Dopasowanie: różne nawierzchnie, stolarka i ślusarka budowlana, wznoszenie konstrukcji stalowych, furtk, konstrukcje stalowe, małej architektur
 - Link: https://ted.europa.eu/pl/notice/-/detail/755037-2026
 
+### [A] Polska – Serwery – Dostawa i magazynowanie infrastruktury sprzętowej dla Ośrodków Regionalnych PZŁ SWD PRM
+- Branża: metal
+- Źródło: TED · Zamawiający: Lotnicze Pogotowie Ratunkowe (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-10+01:00** · opublikowano: 2026-11-04
+- CPV: 48820000, 48820000
+- Dopasowanie: magazyn
+- Link: https://ted.europa.eu/pl/notice/-/detail/764618-2026
+
 ### [A] Polska – Usługi wywozu odpadów – ŚWIADCZENIE USŁUG ODBIORU, TRANSPORTU I ZAGOSPODAROWANIA ODPADÓW KOMUNALNYCH POWSTAJĄCYCH NA NIERUCHOMOŚCIACH ZAMIESZKAŁYCH NA OBSZARZE GMINY DĄBROWA CHEŁMIŃSKA
 - Branża: nawierzchnie
 - Źródło: TED · Zamawiający: Gmina Dąbrowa Chełmińska (Dąbrowa Chełmińska, kujawsko-pomorskie)
@@ -3222,6 +3181,14 @@ wraz z macierzą dyskową i systemem kopii zapasowych
 - CPV: 45233140, 45233120, 45111200, 45111000, 45233220, 45233222, 45233200, 45232130, 45232310
 - Dopasowanie: różne nawierzchnie, układanie chodników, rynek, poręcz
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df34f4-18c2-caf4-f9f4-660001a3c2a8
+
+### [A] Wyposażenie socjalno - bytowe, wyposażenie biurowo - administracyjne oraz dodatkowe rozwiązania zgodnie z opisem przedmiotu zamówienia.
+- Branża: metal
+- Źródło: BZP · Zamawiający: SZPITAL WOLSKI IM. DR ANNY GOSTYŃSKIEJ SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-12 07:00** · opublikowano: 2026-11-03 12:21
+- CPV: 39112000, 39143100, 39121100, 39113100, 39162100
+- Dopasowanie: siedziska / ławki
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a4-f031-3c3d-e2d6-6b000120db38
 
 ### [A] Uporządkowanie gospodarki wodnej – wód opadowych oraz dostosowanie do zmiany klimatu terenów przy „Zalewie” w Lubawie
 - Branża: metal + nawierzchnie
@@ -3263,6 +3230,24 @@ wraz z macierzą dyskową i systemem kopii zapasowych
 - CPV: 09132100, 09134100
 - Dopasowanie: zbiornik
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38dd-bb85-364d-e2d6-6b000120c9a5
+
+### [A] Wykonanie badań geotechnicznych dla zadania pn.: „Doszczelnienie przesłony przeciwfiltracyjnej zapory czołowej wraz z robotami towarzyszącymi na terenie Zbiornika Racibórz Dolny”.
+- Branża: metal
+- Źródło: BZP · Zamawiający: Państwowe Gospodarstwo Wodne Wody Polskie (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-12 08:00** · opublikowano: 2026-11-03 06:50
+- Wartość: 189000,00 PLN
+- CPV: 71000000, 71300000, 71332000, 71335000, 71336000
+- Dopasowanie: zbiornik
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3976-be32-4dd1-e2d6-6b000120d161
+
+### [A] Zakup i dostawa materiałów do archiwizacji do magazynu-archiwum Urzędu m.st. Warszawy Dzielnicy Mokotów przy ul. Kazimierzowskiej 60 w Warszawie
+- Branża: metal
+- Źródło: BZP · Zamawiający: Miasto Stołeczne Warszawa Dzielnica Mokotów (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-12 08:00** · opublikowano: 2026-11-03 12:27
+- Wartość: 81300,81 PLN
+- CPV: 30192000
+- Dopasowanie: magazyn
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a5-d655-8fe9-e2d6-6b000120db68
 
 ### [A] Budowa drogi dla rowerów wzdłuż ul. Dębowej
 - Branża: metal + nawierzchnie
@@ -3383,6 +3368,46 @@ Sieciechów oraz z PSZOK w Sieciechowie
 - Dopasowanie: zagospodarowan, poręcz
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38e6-074a-8530-e2d6-6b000120cb8b
 
+### [A] Utrzymanie i konserwacja terenów zieleni miejskiej będących własnością Gminy Miasta Mrągowa
+- Branża: metal
+- Źródło: BZP · Zamawiający: Gmina Miasto Mrągowo (Mrągowo, warmińsko-mazurskie)
+- Termin ofert: **2026-11-12 09:00** · opublikowano: 2026-11-03 09:28
+- CPV: 77310000
+- Dopasowanie: konserwacj, małej architektur
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df398c-c4bf-d485-e2d6-6b000120d55f
+
+### [A] Odbiór i zagospodarowanie odpadów komunalnych z terenu Gminy Przesmyki w okresie od dnia 01.01.2027 r. do dnia 31.12.2027 r.
+- Branża: nawierzchnie
+- Źródło: BZP · Zamawiający: GMINA PRZESMYKI (Przesmyki, mazowieckie)
+- Termin ofert: **2026-11-12 09:00** · opublikowano: 2026-11-03 12:26
+- CPV: 90500000, 90513100, 90512000, 90533000, 90510000, 90514000
+- Dopasowanie: zagospodarowan
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a5-a535-9449-e2d6-6b000120db5f
+
+### [A] „Usługi związane z zimowym utrzymaniem dróg, chodników, ciągów pieszych i parkingów gminnych – w sezonie 2026/2027”
+- Branża: nawierzchnie
+- Źródło: BZP · Zamawiający: GMINA SOMONINO (Somonino, pomorskie)
+- Termin ofert: **2026-11-12 09:00** · opublikowano: 2026-11-03 13:09
+- CPV: 90620000, 90630000
+- Dopasowanie: chodnik, ciągów pieszych, parking
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39ab-c2ea-bc35-e2d6-6b000120dd07
+
+### [A] Transport i zagospodarowanie odpadów komunalnych należących do Gminy Szubin w 2027 r.
+- Branża: nawierzchnie
+- Źródło: BZP · Zamawiający: GMINA SZUBIN (Szubin, kujawsko-pomorskie)
+- Termin ofert: **2026-11-12 09:00** · opublikowano: 2026-11-03 13:58
+- CPV: 90500000, 90511000, 90512000
+- Dopasowanie: zagospodarowan
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39b2-7ced-1bb0-e2d6-6b000120de7c
+
+### [A] Zagospodarowanie odpadów komunalnych z terenu gminy Baranowo w 2027 r.
+- Branża: metal + nawierzchnie
+- Źródło: BZP · Zamawiający: Gmina Baranowo (Baranowo, mazowieckie)
+- Termin ofert: **2026-11-12 09:00** · opublikowano: 2026-11-03 14:04
+- CPV: 90533000, 90514000, 90500000
+- Dopasowanie: zagospodarowan, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39b3-532a-15d4-e2d6-6b000120dea3
+
 ### [A] Bieżące utrzymanie mieszkaniowego zasobu m.st. Warszawy w sprawności technicznej w zakresie branży ogólnobudowlanej : roboty dekarskie, blacharskie, murarskie, malarskie i drogowe.
 - Branża: metal + nawierzchnie
 - Źródło: BZP · Zamawiający: Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Północ m.st. Warszawy (Warszawa, mazowieckie)
@@ -3390,6 +3415,14 @@ Sieciechów oraz z PSZOK w Sieciechowie
 - CPV: 45453000, 45000000, 45261000, 45262522, 45442100, 45410000, 45233222
 - Dopasowanie: układanie chodników, blach, poręcz
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df34b8-b7b9-31c4-75d7-fc0001a43cc1
+
+### [A] Dostawa mobilnej, kontenerowej stacji uzdatniania wody o wydajności min. 5m3/h z ujęcia wody oraz min.10m3/h pompowni drugiego stopnia do sieci wodociągowej
+- Branża: metal
+- Źródło: BZP · Zamawiający: GMINA KOŚCIERZYNA (Kościerzyna, pomorskie)
+- Termin ofert: **2026-11-12 10:00** · opublikowano: 2026-11-03 11:07
+- CPV: 42912330, 42912300, 44613000, 44613400, 79632000
+- Dopasowanie: kontener, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df399a-a6d4-19c4-e2d6-6b000120d8bd
 
 ### [A] „BUDOWA WRAZ Z KOMPLEKSOWYM WYPOSAŻENIEM CENTRUM AKTYWNOŚCI LOKALNEJ W SUCHOCINIE”
 - Branża: metal
@@ -3657,6 +3690,30 @@ szklarskie i zduńskie.
 - Dopasowanie: stolarka i ślusarka budowlana, bram
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df35be-f748-0d38-cfcf-e60001c066a7
 
+### [A] Sukcesywne świadczenie usług usuwania śniegu oraz usuwania śliskości w sezonie zimowym 2026/2027 dróg, chodników, ciągów pieszo – jezdnych Gminy Ustka
+- Branża: nawierzchnie
+- Źródło: BZP · Zamawiający: Wójt Gminy Ustka (Ustka, pomorskie)
+- Termin ofert: **2026-11-13 08:00** · opublikowano: 2026-11-03 08:11
+- CPV: 90620000
+- Dopasowanie: chodnik
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3982-05ac-ccb2-e2d6-6b000120d340
+
+### [A] Dostawa aparatury medycznej dla Szpitali Pomorskich Sp. z o.o. (...) w Gdyni w ramach zadania „Poprawa dostępności i jakości (...) Zakładu Diagnostyki Obrazowej w Szpitalu Morskim im. PCK w Gdyni”
+- Branża: metal
+- Źródło: BZP · Zamawiający: SZPITALE POMORSKIE SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Gdynia, pomorskie)
+- Termin ofert: **2026-11-13 08:00** · opublikowano: 2026-11-03 10:15
+- CPV: 33112200
+- Dopasowanie: dostępnoś
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3993-6f43-1fdd-e2d6-6b000120d6fc
+
+### [A] Dostawa tablic rejestracyjnych w roku 2027
+- Branża: metal
+- Źródło: BZP · Zamawiający: POWIAT SŁUPSKI (Słupsk, pomorskie)
+- Termin ofert: **2026-11-13 08:00** · opublikowano: 2026-11-03 12:54
+- CPV: 30195000
+- Dopasowanie: tablic
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a9-ab6f-863c-e2d6-6b000120dc98
+
 ### [A] "Budowa kolumbariów w kwaterze EIV 14 "B" w ramach zadania inwestycyjnego pn.: "Rozbudowa Cmentarza "Dębica""
 - Branża: metal + nawierzchnie
 - Źródło: BZP · Zamawiający: GMINA MIASTO ELBLĄG  NA PRAWACH POWIATU (Elbląg, warmińsko-mazurskie)
@@ -3721,6 +3778,40 @@ w Kamienicy Szlacheckiej na Miejsce Doraźnego Schronienia (MDS)
 - CPV: 45210000, 45453000, 45111200, 45421100, 45223500, 45310000, 45311100, 45311000
 - Dopasowanie: stolarka i ślusarka budowlana, poręcz
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df35ce-13c4-7cca-cfcf-e60001f8c060
+
+### [A] Na sukcesywną sprzedaż gazów medycznych i technicznych wraz z dzierżawą zbiorników
+- Branża: metal
+- Źródło: BZP · Zamawiający: Samodzielny Publiczny Zespół Zakładów Opieki Zdrowotnej (Lipsko, mazowieckie)
+- Termin ofert: **2026-11-13 09:00** · opublikowano: 2026-11-03 08:04
+- CPV: 24111500, 44611000, 51810000, 24110000
+- Dopasowanie: zbiorniki, zbiornik
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3981-179f-55fd-e2d6-6b000120d30b
+
+### [A] Wykonanie i dostawa tablic rejestracyjnych dla potrzeb Wydziału Komunikacji i Transportu Starostwa Powiatowego w Piasecznie w 2027 roku.
+- Branża: metal
+- Źródło: BZP · Zamawiający: Powiat Piaseczyński - Starostwo Powiatowe w Piasecznie (Piaseczno, mazowieckie)
+- Termin ofert: **2026-11-13 09:00** · opublikowano: 2026-11-03 08:15
+- CPV: 30195000
+- Dopasowanie: tablic
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3982-a273-3d85-e2d6-6b000120d364
+
+### [A] Dostawa i montaż osłon przeciwsłonecznych oraz folii matowej na przeszkleniach budynku Centrum Urazowego WSS w Olsztynie
+- Branża: metal
+- Źródło: BZP · Zamawiający: Wojewódzki Szpital Specjalistyczny w Olsztynie (Olsztyn, warmińsko-mazurskie)
+- Termin ofert: **2026-11-13 09:00** · opublikowano: 2026-11-03 11:54
+- CPV: 44115700, 44115900
+- Dopasowanie: osłon
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a1-30d9-1539-e2d6-6b000120da53
+
+### [A] Wyposażenie, aparatura i sprzęt medyczny
+ POZ SPZZOZ - Szpital w Iłży
+realizowanego w ramach naboru FEMA.05.06-IP.01-057/25
+- Branża: metal
+- Źródło: BZP · Zamawiający: SAMODZIELNY PUBLICZNY ZESPÓŁ ZAKŁADÓW OPIEKI ZDROWOTNEJ - SZPITAL W IŁŻY (Iłża, mazowieckie)
+- Termin ofert: **2026-11-13 09:00** · opublikowano: 2026-11-03 13:07
+- CPV: 33192000, 33196200, 38311000, 39113000, 33190000, 30213200, 48000000, 33100000, 35112000
+- Dopasowanie: siedziska / ławki
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39ab-7035-2bbc-e2d6-6b000120dcf5
 
 ### [A] Zestawy podczyszczające na sieci kanalizacji deszczowej - Przebudowa kanalizacji deszczowej w zakresie budowy urządzeń podczyszczających w ul. Św. Brata Alberta i ul. Potokowej w Gdańsku
 - Branża: metal + nawierzchnie
@@ -3875,6 +3966,14 @@ w Kamienicy Szlacheckiej na Miejsce Doraźnego Schronienia (MDS)
 - Dopasowanie: zagospodarowan
 - Link: https://ted.europa.eu/pl/notice/-/detail/759281-2026
 
+### [A] Polska – Roboty w zakresie rurociągów do przesyłu wody – Kontrakt W-4/R „Rozbudowa i modernizacja sieci wodociągowej na terenie miasta Torunia”
+- Branża: metal + nawierzchnie
+- Źródło: TED · Zamawiający: Toruńskie Wodociągi Sp. z o.o. (Toruń, kujawsko-pomorskie)
+- Termin ofert: **2026-11-13+01:00** · opublikowano: 2026-11-04
+- CPV: 45232150, 45000000, 45233200, 45232150, 45000000, 45233200
+- Dopasowanie: różne nawierzchnie, rurociąg
+- Link: https://ted.europa.eu/pl/notice/-/detail/767332-2026
+
 ### [A] Polska – Usługi w zakresie konserwacji i wsparcia systemów – Świadczenie usługi III linii wsparcia i rozwoju Systemu SOFTLAB ERP
 - Branża: metal
 - Źródło: TED · Zamawiający: Centrum Informatyki Resortu Finansów (Radom, mazowieckie)
@@ -3907,6 +4006,14 @@ w Kamienicy Szlacheckiej na Miejsce Doraźnego Schronienia (MDS)
 - CPV: 45000000, 45110000, 45210000, 45400000, 45430000, 45421131, 45421132, 45450000, 45410000, 45431000, 45442100, 45260000, 44112220, 45421146, 45261000, 45262120, 45443000, 45321000
 - Dopasowanie: konstrukcje budowlane różne (wiaty, zadaszenia), stolarka i ślusarka budowlana, nierdzewn, poręcz, stali nierdzewn
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df35b6-e02e-7861-cfcf-e60001c064b7
+
+### [A] Usługa wywozu nieczystości ciekłych ze zbiorników bezodpływowych z obiektów administrowanych przez 22. BLT w Malborku
+- Branża: metal
+- Źródło: BZP · Zamawiający: 22 BAZA LOTNICTWA TAKTYCZNEGO (Malbork, pomorskie)
+- Termin ofert: **2026-11-16 08:00** · opublikowano: 2026-11-03 13:15
+- CPV: 90400000
+- Dopasowanie: zbiornik
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39ac-8175-8263-e2d6-6b000120dd2a
 
 ### [A] Budowa drogi dla pieszych w ciągu DK25 w m. Jaksice
 - Branża: metal + nawierzchnie
@@ -3998,6 +4105,14 @@ chodników
 - CPV: 45233120, 45111200, 45233253, 45233220, 45232452, 45233200, 45233300
 - Dopasowanie: nawierzchnie dróg dla pieszych, różne nawierzchnie, kostki betonow, nawierzchni z kostki, poręcz
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3403-7916-6b4e-f0a0-c40001811a59
+
+### [A] Ochrona mienia Galerii Miejskiej bwa w Bydgoszczy
+- Branża: metal
+- Źródło: BZP · Zamawiający: Galeria Miejska bwa w Bydgoszczy (Bydgoszcz, kujawsko-pomorskie)
+- Termin ofert: **2026-11-16 11:00** · opublikowano: 2026-11-03 12:50
+- CPV: 79710000
+- Dopasowanie: galeri
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a9-1386-1dde-e2d6-6b000120dc6e
 
 ### [A] Polska – Usługi związane z odpadami – Odbieranie i zagospodarowanie odpadów komunalnych z terenu Gminy Bobrowo wraz z odbiorem odpadów zgromadzonych w PSZOK w 2027 roku
 - Branża: metal + nawierzchnie
@@ -4247,6 +4362,14 @@ chodników
 - Dopasowanie: niepełnospraw
 - Link: https://ted.europa.eu/pl/notice/-/detail/763360-2026
 
+### [A] Polska – Urządzenia medyczne – Zakup, dostawa i montaż nowoczesnego toru wizyjnego i zestawów narzędzi laparoskopowych na potrzeby Mazowieckiego Szpitala Specjalistycznego im. dr. Józefa Psarskiego w Ostrołęce w ramach realizacji zadania pod nazwą „Wzrost dostępności i jakości świadczeń z zakresu ch
+- Branża: metal
+- Źródło: TED · Zamawiający: Mazowiecki Szpital Specjalistyczny im. dr. Józefa Psarskiego w Ostrołęce (Ostrołęka, mazowieckie)
+- Termin ofert: **2026-11-16+01:00** · opublikowano: 2026-11-04
+- CPV: 33100000, 33000000, 33169400, 33162000, 33162200, 33100000
+- Dopasowanie: dostępnoś
+- Link: https://ted.europa.eu/pl/notice/-/detail/764186-2026
+
 ### [A] Polska – Usługi obróbki i usuwania odpadów, które nie są niebezpieczne – Usługa dalszego zagospodarowania odpadów w procesie odzysku – półproduktu do produkcji paliwa alternatywnego (kod odpadu 19 12 12) z podziałem na dwa zadania.
 - Branża: nawierzchnie
 - Źródło: TED · Zamawiający: Przedsiębiorstwo Gospodarki Komunalnej w Płońsku Sp. z o.o. (Płońsk, mazowieckie)
@@ -4321,6 +4444,14 @@ w m. Sarbinowo Drugie
 - Dopasowanie: roboty konstrukcyjne, poręcz
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38e8-2276-d66d-e2d6-6b000120cbf1
 
+### [A] Dostawa artykułów ślusarskich oraz hydrauliczno-sanitarnych dla Domu Studenckiego Politechniki Warszawskiej w Płocku
+- Branża: metal
+- Źródło: BZP · Zamawiający: POLITECHNIKA WARSZAWSKA (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-17 09:00** · opublikowano: 2026-11-03 11:56
+- CPV: 44500000, 44410000
+- Dopasowanie: ślusar
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a1-8cb6-3b4e-e2d6-6b000120da67
+
 ### [A] Dostawa i montaż piłkochwytów oraz kontenerów szatniowych na boisku piłkarskim w Załężu Dużym
 - Branża: metal
 - Źródło: BZP · Zamawiający: GMINA PNIEWY (Pniewy, mazowieckie)
@@ -4328,6 +4459,15 @@ w m. Sarbinowo Drugie
 - CPV: 45340000, 45000000
 - Dopasowanie: ogrodzenia, barierki, sprzęt ochronny, boisk, kontener, piłkochwyt, płot
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38ee-c15a-5a47-e2d6-6b000120ccda
+
+### [A] Zakup fabrycznie nowego pojazdu 9-osobowego (8+1), specjalnie przystosowanego do przewozu jednej osoby na wózku inwalidzkim, w sposób zapewniający niepełnosprawnemu bezpośredni kontakt 
+z opiekunem.
+- Branża: metal
+- Źródło: BZP · Zamawiający: FUNDACJA "WRÓĆ" (Malbork, pomorskie)
+- Termin ofert: **2026-11-17 14:00** · opublikowano: 2026-11-03 14:09
+- CPV: 34110000, 34115200
+- Dopasowanie: niepełnospraw
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39b4-1e1b-9d73-e2d6-6b000120dec4
 
 ### [A] Polska – Usługi wywozu odpadów – Świadczenie usług odbioru i zagospodarowania odpadów komunalnych z obiektów KWP zs. w Radomiu oraz jej jednostek podległych z prawem opcji - cz.2
 - Branża: nawierzchnie
@@ -4409,6 +4549,22 @@ w m. Sarbinowo Drugie
 - Dopasowanie: konserwacj
 - Link: https://ted.europa.eu/pl/notice/-/detail/763816-2026
 
+### [A] Polska – Roboty budowlane – Zaprojektowanie i wykonanie Robót dla projektu „Modernizacja linii kolejowej nr 353 na odcinku Toruń Główny - Toruń Wschodni wraz z infrastrukturą dworcową oraz budową nowych przystanków kolejowych w Toruniu - BiT City II”
+- Branża: metal
+- Źródło: TED · Zamawiający: PKP Polskie Linie Kolejowe S.A. | Gmina Miasta Toruń (Warszawa | Toruń, kujawsko-pomorskie)
+- Termin ofert: **2026-11-17+01:00** · opublikowano: 2026-11-04
+- CPV: 45000000, 71322000, 45200000, 45230000, 45234000, 45234100
+- Dopasowanie: przystan, przystank
+- Link: https://ted.europa.eu/pl/notice/-/detail/766473-2026
+
+### [A] Polska – Usługi związane z odpadami – Odbiór, transport i zagospodarowanie odpadów komunalnych z terenu gminy Bytoń
+- Branża: nawierzchnie
+- Źródło: TED · Zamawiający: Gmina Bytoń (Bytoń, kujawsko-pomorskie)
+- Termin ofert: **2026-11-17+01:00** · opublikowano: 2026-11-04
+- CPV: 90500000, 90513100, 90512000, 90533000, 90514000, 90500000
+- Dopasowanie: zagospodarowan
+- Link: https://ted.europa.eu/pl/notice/-/detail/766487-2026
+
 ### [A] Modernizacja drogi dojazdowej w miejscowości Dąbrówka na dz. nr 163 i 77
 - Branża: metal + nawierzchnie
 - Źródło: BZP · Zamawiający: GMINA STAROGARD GDAŃSKI (Starogard Gdański, pomorskie)
@@ -4416,6 +4572,30 @@ w m. Sarbinowo Drugie
 - CPV: 45233220
 - Dopasowanie: dojazd, kostki betonow, poręcz
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38e0-946e-ca30-e2d6-6b000120ca57
+
+### [A] Przebudowa drogi gminnej nr 361114W na odcinku Ciosny – Borki Paduchy
+- Branża: metal + nawierzchnie
+- Źródło: BZP · Zamawiający: Gmina Wiśniew (Wiśniew, mazowieckie)
+- Termin ofert: **2026-11-18 08:00** · opublikowano: 2026-11-03 11:04
+- CPV: 45233142, 45233200, 45233140, 45233123
+- Dopasowanie: różne nawierzchnie, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df399a-39c9-671d-e2d6-6b000120d8aa
+
+### [A] Wymiana stolarki okiennej i drzwiowej w budynkach ul. Zazamcze 19E, 19F, 19G. 19H w Gostyninie
+- Branża: metal
+- Źródło: BZP · Zamawiający: MIEJSKIE TOWARZYSTWO BUDOWNICTWA SPOŁECZNEGO W GOSTYNINIE SPÓŁKA Z O.O. (Gostynin, mazowieckie)
+- Termin ofert: **2026-11-18 08:00** · opublikowano: 2026-11-03 12:16
+- CPV: 45400000, 45421100
+- Dopasowanie: stolarka i ślusarka budowlana
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a4-3bc2-3886-e2d6-6b000120db0f
+
+### [A] BUDOWA PLACU ZABAW PRZY ŻŁOBKU GMINNYM W CZERWINIE
+- Branża: metal
+- Źródło: BZP · Zamawiający: Gmina Czerwin (Czerwin, mazowieckie)
+- Termin ofert: **2026-11-18 08:00** · opublikowano: 2026-11-03 13:58
+- CPV: 37535200, 45111200, 45236210, 45112710
+- Dopasowanie: urządzenia placów zabaw, placu zabaw, altan, ogrodzen
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39b2-8c19-40ef-e2d6-6b000120de7e
 
 ### [A] Adaptacja na cele rehabilitacyjne budynku przy ul. Dworcowej w Cekcynie
 - Branża: metal
@@ -4449,6 +4629,30 @@ w m. Sarbinowo Drugie
 - Dopasowanie: nawierzchnie (poza drogami), bruk, chodnik, kostki brukow, parking
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38f3-472b-fa57-e2d6-6b000120cd22
 
+### [A] „Remont nawierzchni placu na części działki nr 20354  przy ul. Kurpiowskiej 8 w Ostrołęce”
+- Branża: metal + nawierzchnie
+- Źródło: BZP · Zamawiający: OSTROŁĘCKIE TOWARZYSTWO BUDOWNICTWA SPOŁECZNEGO SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Ostrołęka, mazowieckie)
+- Termin ofert: **2026-11-18 09:00** · opublikowano: 2026-11-03 08:19
+- CPV: 45000000, 45233250, 45330000, 45311200
+- Dopasowanie: nawierzchnie (poza drogami), nawierzchni, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3983-37fa-d481-e2d6-6b000120d37a
+
+### [A] Budowa kompleksu sportowego Orlik w miejscowości Nowe Grabie
+- Branża: metal
+- Źródło: BZP · Zamawiający: MIASTO I GMINA GĄBIN (Gąbin, mazowieckie)
+- Termin ofert: **2026-11-18 09:00** · opublikowano: 2026-11-03 09:52
+- CPV: 45212200, 45111200, 45342000
+- Dopasowanie: wznoszenie ogrodzeń, ogrodzen, piłkochwyt, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3990-2040-cf2c-e2d6-6b000120d640
+
+### [A] Wykonywanie konserwacji i napraw bieżących w branży kominiarskiej w budynkach gminnych
+- Branża: metal
+- Źródło: BZP · Zamawiający: Przedsiębiorstwo Gospodarki Mieszkaniowej Żyrardów Sp. z o.o. (Żyrardów, mazowieckie)
+- Termin ofert: **2026-11-18 09:00** · opublikowano: 2026-11-03 11:38
+- CPV: 90915000, 71356100
+- Dopasowanie: konserwacj
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df399e-f317-32c8-e2d6-6b000120d9cd
+
 ### [A] Roboty budowlane pomieszczeń zaplecza kuchennego, stołówki, holu, wejścia głównego i pomieszczeń przyległych w budynku internatu Szkoły Podoficerskiej Państwowej Straży Pożarnej w Bydgoszczy
 - Branża: metal
 - Źródło: BZP · Zamawiający: SZKOŁA PODOFICERSKA PAŃSTWOWEJ STRAŻY POŻARNEJ W BYDGOSZCZY (Bydgoszcz, kujawsko-pomorskie)
@@ -4456,6 +4660,22 @@ w m. Sarbinowo Drugie
 - CPV: 45000000, 45111300, 45320000, 45262500, 45421100, 45410000, 45442100, 45421140, 45332300, 45332200, 45331100, 45331200, 45310000, 45311100
 - Dopasowanie: stolarka i ślusarka budowlana, poręcz
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38e8-7134-88e9-e2d6-6b000120cbfc
+
+### [A] Remont budynku mieszkalnego wielorodzinnego, przy ul. Kowieńskiej 23 w Warszawie – przejazd bramowy, realizacja decyzji PINB nr IIWT/274/2026 z dnia 12.08.2025.  Oznaczenie sprawy: DNZP.260.77.2026
+- Branża: metal
+- Źródło: BZP · Zamawiający: Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Północ m.st. Warszawy (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-18 11:00** · opublikowano: 2026-11-03 05:55
+- CPV: 45453000
+- Dopasowanie: bram, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df396f-0c21-3b91-e2d6-6b000120d106
+
+### [A] Świadczenie usług porządkowych oraz zimowego utrzymania chodników i terenów utwardzonych przez ekipy robocze
+- Branża: nawierzchnie
+- Źródło: BZP · Zamawiający: Przedsiębiorstwo Usług Komunalnych Piaseczno (Piaseczno, mazowieckie)
+- Termin ofert: **2026-11-18 11:00** · opublikowano: 2026-11-03 10:53
+- CPV: 90610000, 90611000, 90620000
+- Dopasowanie: chodnik
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3998-a53d-b0e7-e2d6-6b000120d848
 
 ### [A] Polska – Usługi wywozu odpadów pochodzących z gospodarstw domowych – Odbiór i zagospodarowanie odpadów komunalnych powstających na nieruchomo-ściach zamieszkałych położonych na terenie Gminy Miejskiej Ciechocinek wraz z utworzeniem PSZOK
 - Branża: nawierzchnie
@@ -4497,6 +4717,24 @@ w m. Sarbinowo Drugie
 - Dopasowanie: zagospodarowan
 - Link: https://ted.europa.eu/pl/notice/-/detail/759512-2026
 
+### [A] Polska – Usługi związane z odpadami – Udostępnienie i obsługa stacjonarnego Punktu Selektywnej Zbiórki Odpadów Komunalnych (PSZOK) oraz zagospodarowanie segregowanych odpadów komunalnych dostarczonych przez mieszkańców Gminy Lesznowola.
+- Branża: nawierzchnie
+- Źródło: TED · Zamawiający: Gmina Lesznowola (Lesznowola, mazowieckie)
+- Termin ofert: **2026-11-18+01:00** · opublikowano: 2026-11-04
+- CPV: 90500000, 90533000, 90500000, 90533000
+- Dopasowanie: zagospodarowan
+- Link: https://ted.europa.eu/pl/notice/-/detail/764249-2026
+
+### [A] TERMOMODERNIZACJA BUDYNKÓW MIESZKALNYCH W MIEŚCIE EŁK 
+ZADANIE NR 4 – TERMOMODERNIZACJA BUDYNKU MIESZKALNEGO 
+PRZY UL. ARMII KRAJOWEJ 38A W EŁKU
+- Branża: metal + nawierzchnie
+- Źródło: BZP · Zamawiający: Gmina Miasto Ełk (Ełk, warmińsko-mazurskie)
+- Termin ofert: **2026-11-19 08:00** · opublikowano: 2026-11-03 09:05
+- CPV: 45320000, 45443000, 45111000, 45262100, 45261210, 45233200, 45332300, 45330000, 45331100
+- Dopasowanie: różne nawierzchnie, kostki betonow, ogrodzen, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3989-8d42-6f20-e2d6-6b000120d4b0
+
 ### [A] Budowa świetlicy wiejskiej z częścią garażową wraz z infrastrukturą techniczną w miejscowości Węzina
 - Branża: metal + nawierzchnie
 - Źródło: BZP · Zamawiający: Gmina Elbląg (Elbląg, warmińsko-mazurskie)
@@ -4504,6 +4742,14 @@ w m. Sarbinowo Drugie
 - CPV: 45200000, 45210000, 45211350, 45300000, 45311200, 45330000, 45310000, 45100000, 45400000, 45111291
 - Dopasowanie: zagospodarowanie terenu, poręcz, siłowni zewn
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38d6-d283-b8ac-e2d6-6b000120c811
+
+### [A] Zagospodarowanie terenu przy ul. Grodzkiej - utworzenie parku kieszonkowego Bulwarowy zakątek - zadanie Rozwój zielono-błękitnej infrastruktury na terenie Miasta Słupska, Fundusz Spójności
+- Branża: metal + nawierzchnie
+- Źródło: BZP · Zamawiający: Zarząd Infrastruktury Miejskiej w Słupsku (Słupsk, pomorskie)
+- Termin ofert: **2026-11-19 09:00** · opublikowano: 2026-11-03 12:59
+- CPV: 45000000, 45233253, 45112710, 45112711, 43325000
+- Dopasowanie: kształtowanie parków (mała architektura), nawierzchnie dróg dla pieszych, zagospodarowan, kostka betonowa, małej architektur, rzeźb, stojaki rower
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39aa-3c2d-f6a1-e2d6-6b000120dcbf
 
 ### [A] Budowa budynku mieszkalnego wielorodzinnego, komunalnego i miejsc postojowych wraz z infrastrukturą towarzyszącą przy ul. Fabrycznej w Józefowie
 - Branża: metal + nawierzchnie
@@ -4650,6 +4896,14 @@ w m. Sarbinowo Drugie
 - Dopasowanie: nawierzchni
 - Link: https://ted.europa.eu/pl/notice/-/detail/735458-2026
 
+### [A] Polska – Roboty budowlane – Budowa drogi rowerowej w ul. Bielskiej w ramach zadania „Rozwój infrastruktury mobilności indywidualnej na terenie miasta Płocka” i „Przebudowa ulicy Bielskiej”
+- Branża: metal
+- Źródło: TED · Zamawiający: MIEJSKI ZARZĄD DRÓG JEDNOSTKA BUDŻETOWA (Płock, mazowieckie)
+- Termin ofert: **2026-11-19+01:00** · opublikowano: 2026-11-04
+- CPV: 45000000, 45233120, 45231300, 45232130, 45316000, 45112710
+- Dopasowanie: rowerow
+- Link: https://ted.europa.eu/pl/notice/-/detail/766269-2026
+
 ### [A] Wymiana stolarki drzwiowej wewnętrznej w budynku Centrum Zdrowia Psychicznego w Słupsku
 - Branża: metal
 - Źródło: BZP · Zamawiający: Centrum Zdrowia Psychicznego w Słupsku (Słupsk, pomorskie)
@@ -4666,6 +4920,15 @@ w m. Sarbinowo Drugie
 - CPV: 45321000, 45443000, 45421100, 45261210, 09331100, 45300000, 45331000, 45320000
 - Dopasowanie: stolarka i ślusarka budowlana
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df382d-b8c9-8c46-e2d6-6b000120bc08
+
+### [A] Modernizacja szatni i zaplecza socjalnego Stadionu Miejskiego w Pakości
+- Branża: metal
+- Źródło: BZP · Zamawiający: GMINA PAKOŚĆ (Pakość, kujawsko-pomorskie)
+- Termin ofert: **2026-11-20 09:00** · opublikowano: 2026-11-03 10:37
+- Wartość: 1727032,30 PLN
+- CPV: 45000000, 45262500, 45421100, 45421000, 45421131, 45430000, 45442100, 45442300, 45453000, 45332000, 45331100, 45331200, 45311000, 45311100, 45311200, 45310000, 45314310, 45315300, 45315600, 45316000, 31520000, 45317300, 45315100, 45312100, 39100000, 37440000
+- Dopasowanie: siłownie zewnętrzne / sprzęt fitness, stolarka i ślusarka budowlana, gablot, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3996-6655-72fe-e2d6-6b000120d7a8
 
 ### [A] Budowa drogi dla pieszych i rowerów w ciągu drogi powiatowej nr 1809W w m. Nowa Wieś
 - Branża: nawierzchnie
@@ -4899,6 +5162,14 @@ w m. Sarbinowo Drugie
 - Dopasowanie: chodnik, dróg wewnętrzn
 - Link: https://ted.europa.eu/pl/notice/-/detail/760066-2026
 
+### [A] Polska – Roboty budowlane – Wykonanie robót budowlanych polegających na termomodernizacji i przebudowie budynku wraz z infrastrukturą techniczną Zespołu Szkół Spożywczych przy ul. Toruńskiej 174 w Bydgoszczy.
+- Branża: metal + nawierzchnie
+- Źródło: TED · Zamawiający: Miasto Bydgoszcz (Bydgoszcz, kujawsko-pomorskie)
+- Termin ofert: **2026-11-23+01:00** · opublikowano: 2026-11-04
+- CPV: 45000000, 45111291, 45111200, 45410000, 45421100, 45261000
+- Dopasowanie: stolarka i ślusarka budowlana, zagospodarowanie terenu
+- Link: https://ted.europa.eu/pl/notice/-/detail/764790-2026
+
 ### [A] Polska – Usługi związane z odpadami – Odbiór i zagospodarowanie odpadów komunalnych z nieruchomości na terenie Gminy Radziejowice, na których zamieszkują mieszkańcy.
 - Branża: nawierzchnie
 - Źródło: TED · Zamawiający: Gmina Radziejowice (Radziejowice, mazowieckie)
@@ -4986,6 +5257,38 @@ w m. Sarbinowo Drugie
 - CPV: 45210000, 45000000, 45210000, 45000000, 45262600, 45111291
 - Dopasowanie: układanie chodników, zagospodarowanie terenu, zagospodarowan, zjazd
 - Link: https://ted.europa.eu/pl/notice/-/detail/745062-2026
+
+### [A] Polska – Usługi wycinania drzew – Usługa usunięcie drzew i krzewów na terenie Północnego Przedzamcza Muzeum Zamkowego w Malborku w ramach projektu pn. „Podniesienie atrakcyjności turystycznej zabytkowych budynków północnego Przedzamcza zespołu zamkowego w Malborku poprzez wykonanie prac konserwators
+- Branża: nawierzchnie
+- Źródło: TED · Zamawiający: Muzeum Zamkowe w Malborku (Malbork, pomorskie)
+- Termin ofert: **2026-11-24+01:00** · opublikowano: 2026-11-04
+- CPV: 77211400, 77211400
+- Dopasowanie: zagospodarowan
+- Link: https://ted.europa.eu/pl/notice/-/detail/763837-2026
+
+### [A] Polska – Usługi leśnictwa – Wykonywanie usług z zakresu gospodarki leśnej na terenie Nadleśnictwa Niedźwiady w roku 2027
+- Branża: metal
+- Źródło: TED · Zamawiający: Skarb Państwa Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Niedźwiady w Przechlewie (Przechlewo, pomorskie)
+- Termin ofert: **2026-11-24+01:00** · opublikowano: 2026-11-04
+- CPV: 77200000, 45342000, 77210000, 77211000, 77211100, 77211200
+- Dopasowanie: wznoszenie ogrodzeń
+- Link: https://ted.europa.eu/pl/notice/-/detail/764011-2026
+
+### [A] Polska – Usługi leśnictwa – Wykonywanie usług z zakresu gospodarki leśnej na terenie Nadleśnictwa Człuchów w roku 2027
+- Branża: metal
+- Źródło: TED · Zamawiający: Skarb Państwa - Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Człuchów (Człuchów, pomorskie)
+- Termin ofert: **2026-11-24+01:00** · opublikowano: 2026-11-04
+- CPV: 77200000, 77210000, 77211000, 77211100, 77211200, 77211300
+- Dopasowanie: wznoszenie ogrodzeń
+- Link: https://ted.europa.eu/pl/notice/-/detail/764512-2026
+
+### [A] Polska – Usługi leśnictwa – Wykonywanie usług z zakresu gospodarki leśnej na terenie Nadleśnictwa Łupawa w roku 2027
+- Branża: metal
+- Źródło: TED · Zamawiający: Skarb Państwa PGL LP Nadleśnictwo Łupawa (Łupawa, pomorskie)
+- Termin ofert: **2026-11-24+01:00** · opublikowano: 2026-11-04
+- CPV: 77200000, 77210000, 77211000, 77211100, 77211200, 77211300
+- Dopasowanie: wznoszenie ogrodzeń
+- Link: https://ted.europa.eu/pl/notice/-/detail/765462-2026
 
 ### [A] Polska – Usługi wywozu odpadów – Odbiór, transport i zagospodarowanie odpadów komunalnych z nieruchomości zamieszkałych z terenu Gminy Obryte w 2027 r
 - Branża: nawierzchnie
@@ -5587,6 +5890,38 @@ w m. Sarbinowo Drugie
 - Dopasowanie: zagospodarowanie terenu
 - Link: https://ted.europa.eu/pl/notice/-/detail/762267-2026
 
+### [A] Polska – Usługi związane z odpadami – Odbiór, transport i zagospodarowanie części odpadów komunalnych od właścicieli nieruchomości z terenu Gminy Dywity, prowadzenie PSZOK-u oraz odbiór i transport odpadów z obiektów użyteczności publicznej Gminy Dywity w okresie od 1 stycznia 2027r. do 31 grudnia 2
+- Branża: nawierzchnie
+- Źródło: TED · Zamawiający: Gmina Dywity (Dywity, warmińsko-mazurskie)
+- Termin ofert: **2026-12-04+01:00** · opublikowano: 2026-11-04
+- CPV: 90500000, 90511000, 90512000, 90513000, 90513100, 90500000
+- Dopasowanie: zagospodarowan
+- Link: https://ted.europa.eu/pl/notice/-/detail/764431-2026
+
+### [A] Polska – Usługi w zakresie napraw i konserwacji taboru kolejowego – Przegląd przetwornic typu PSM-81A i falowników typu FT500-3000-UF-M z pojazdów trakcyjnych EN57-Ald
+- Branża: metal
+- Źródło: TED · Zamawiający: POLREGIO S.A. (Warszawa, warmińsko-mazurskie)
+- Termin ofert: **2026-12-04+01:00** · opublikowano: 2026-11-04
+- CPV: 50222000, 50222000
+- Dopasowanie: konserwacj
+- Link: https://ted.europa.eu/pl/notice/-/detail/765240-2026
+
+### [A] Polska – Usługi w zakresie konserwacji sygnalizacji ulicznej – Utrzymanie w sprawności i bieżąca konserwacja oraz naprawy sygnalizacji świetlnych w latach 2027-2028 w ciągach dróg wojewódzkich administrowanych przez ZDW w Gdańsku
+- Branża: metal
+- Źródło: TED · Zamawiający: Zarząd Dróg Wojewódzkich w Gdańsku (Gdańsk, pomorskie)
+- Termin ofert: **2026-12-04+01:00** · opublikowano: 2026-11-04
+- CPV: 50232200, 50230000, 50232200, 50232200, 50232200, 50232200
+- Dopasowanie: konserwacj
+- Link: https://ted.europa.eu/pl/notice/-/detail/765566-2026
+
+### [A] Polska – Usługi wywozu odpadów pochodzących z gospodarstw domowych – Odbiór, transport i zagospodarowanie odpadów komunalnych z nieruchomości zamieszkałych położonych na terenie Gminy Jaktorów.
+- Branża: nawierzchnie
+- Źródło: TED · Zamawiający: Gmina Jaktorów (Jaktorów, mazowieckie)
+- Termin ofert: **2026-12-04+01:00** · opublikowano: 2026-11-04
+- CPV: 90513100, 90513200, 90512000, 90500000, 90533000, 90513200
+- Dopasowanie: zagospodarowan
+- Link: https://ted.europa.eu/pl/notice/-/detail/766814-2026
+
 ### [A] Polska – Usługi związane z odpadami – „Świadczenie usług w zakresie odbierania i zagospodarowania odpadów komunalnych od właścicieli nieruchomości z terenu Gminy Joniec w 2027 roku".
 - Branża: nawierzchnie
 - Źródło: TED · Zamawiający: Gmina Joniec (Joniec, mazowieckie)
@@ -5643,6 +5978,14 @@ w m. Sarbinowo Drugie
 - Dopasowanie: konserwacj
 - Link: https://ted.europa.eu/pl/notice/-/detail/758915-2026
 
+### [A] Polska – Usługi w zakresie konserwacji oświetlenia ulicznego – Konserwacja urządzeń oświetlenia ulicznego na terenie m. st. Warszawy
+- Branża: metal
+- Źródło: TED · Zamawiający: Zarząd Dróg Miejskich w Warszawie (Warszawa, mazowieckie)
+- Termin ofert: **2026-12-08+01:00** · opublikowano: 2026-11-04
+- CPV: 50232100, 50232100, 50232100
+- Dopasowanie: konserwacj
+- Link: https://ted.europa.eu/pl/notice/-/detail/764804-2026
+
 ### [A] Polska – Roboty budowlane w zakresie budowy rurociągów, linii komunikacyjnych i elektroenergetycznych, autostrad, dróg, lotnisk i kolei; wyrównywanie terenu – Projekt i budowa obwodnicy Kowalewa Pomorskiego w ciągu drogi krajowej nr 15
 - Branża: metal
 - Źródło: TED · Zamawiający: Generalna Dyrekcja Dróg Krajowych i Autostrad (Bydgoszcz, kujawsko-pomorskie)
@@ -5666,6 +6009,30 @@ w m. Sarbinowo Drugie
 - CPV: 45000000, 45000000
 - Dopasowanie: osłon
 - Link: https://ted.europa.eu/pl/notice/-/detail/745446-2026
+
+### [A] Polska – Usługi wywozu odpadów – Odbiór i zagospodarowanie stałych odpadów komunalnych z terenu Gminy Płużnica na rok 2027 - II postępowanie
+- Branża: nawierzchnie
+- Źródło: TED · Zamawiający: Gmina Płużnica (Płużnica, kujawsko-pomorskie)
+- Termin ofert: **2026-12-11+01:00** · opublikowano: 2026-11-04
+- CPV: 90511000, 90512000, 90513100, 90500000, 90533000, 90514000
+- Dopasowanie: zagospodarowan
+- Link: https://ted.europa.eu/pl/notice/-/detail/766985-2026
+
+### [A] Polska – Roboty budowlane w zakresie obiektów budowlanych dla służb porządku publicznego – KWP Olsztyn – budowa budynku administracyjno-biurowego z pomieszczeniami policyjnej strzelnicy ćwiczebnej i magazynami podręcznymi, Olsztyn ul. Pstrowskiego 3
+- Branża: metal
+- Źródło: TED · Zamawiający: Komenda Wojewódzka Policji w Olsztynie (Olsztyn, warmińsko-mazurskie)
+- Termin ofert: **2026-12-15+01:00** · opublikowano: 2026-11-04
+- CPV: 45216110, 45100000, 45400000, 45216110, 45100000, 45330000
+- Dopasowanie: magazyn
+- Link: https://ted.europa.eu/pl/notice/-/detail/763882-2026
+
+### [A] Polska – Usługi ochroniarskie – Świadczenie usługi bezpośredniej ochrony fizycznej osób i mienia na terenie nieruchomości przy ul. Poligonowej 3 w Warszawie, będącej w trwałym zarządzie Sądu Okręgowego Warszawa-Praga w Warszawie, oraz parkingu zewnętrznego usytuowanego przy ul. Poligonowej 30 w Wars
+- Branża: nawierzchnie
+- Źródło: TED · Zamawiający: Sąd Okręgowy Warszawa-Praga w Warszawie (Warszawa, mazowieckie)
+- Termin ofert: **2026-12-15+01:00** · opublikowano: 2026-11-04
+- CPV: 79710000, 79710000
+- Dopasowanie: parking
+- Link: https://ted.europa.eu/pl/notice/-/detail/765039-2026
 
 ### [A] Polska – Roboty budowlane – Projekt i budowa drogi ekspresowej S12 odcinek węzeł Wieniawa (bez węzła) - węzeł Radom Południe (z węzłem)
 - Branża: metal
@@ -5714,6 +6081,22 @@ w m. Sarbinowo Drugie
 - CPV: 45234000, 71320000, 71541000, 71240000, 45234111, 45234114
 - Dopasowanie: kowal
 - Link: https://ted.europa.eu/pl/notice/-/detail/752927-2026
+
+### [A] Polska – Usługi ochroniarskie – Świadczenie usług ochrony mienia na dwóch obiektach mostowych będących w zarządzie GDDKiA Oddział w Gdańsku w miejscowości Knybawa i Lipianki
+- Branża: metal
+- Źródło: TED · Zamawiający: Generalna Dyrekcja Dróg Krajowych i Autostrad ul. Wronia 53, 00-874 Warszawa, Prowadzący postępowanie: Generalna Dyrekcja Dróg Krajowych i Autostrad Oddział w Gdańsku (Gdańsk, pomorskie)
+- Termin ofert: **sprawdź** · opublikowano: 2026-11-04
+- CPV: 79710000, 79710000
+- Dopasowanie: most
+- Link: https://ted.europa.eu/pl/notice/-/detail/763853-2026
+
+### [A] Polska – Usługi w zakresie napraw i konserwacji sprzętu bezpieczeństwa – Przeglądy i konserwacja, usług napraw awaryjnych oraz demontażu i montażu systemów i urządzeń specjalistycznych do ochrony obiektów w jednostkach wojskowych będących na zaopatrzeniu 26 Wojskowego Oddziału Gospodarczego w Zegrzu
+- Branża: metal
+- Źródło: TED · Zamawiający: 26. Wojskowy Oddział Gospodarczy w Zegrzu (Zegrze, mazowieckie)
+- Termin ofert: **sprawdź** · opublikowano: 2026-11-04
+- CPV: 50610000, 50610000, 50610000, 50610000, 50610000, 50610000
+- Dopasowanie: konserwacj
+- Link: https://ted.europa.eu/pl/notice/-/detail/763971-2026
 
 ### [S] Postępowanie na Przeprowadzenie zajęć polegających na wieloaspektowej i kompleksowej pomocy niepełnosprawnemu dziecku w okresie od 0. roku życia do rozpoczęcia nauki w szkole oraz jego rodzinie _(pierwszy przegląd strony – może być archiwalne)_
 - Branża: metal
@@ -5806,72 +6189,6 @@ w m. Sarbinowo Drugie
 - CPV: 33100000, 33100000, 33100000, 33100000, 33100000, 33100000
 - Dopasowanie: spawa
 - Link: https://ted.europa.eu/pl/notice/-/detail/719771-2026
-
-### [B] Remont drogi powiatowej nr 1371C Szynwałd – Stare Błonowo
-- Branża: metal + nawierzchnie
-- Źródło: BZP · Zamawiający: Powiatowy Zarząd Dróg (Grudziądz, kujawsko-pomorskie)
-- Termin ofert: **2026-11-03 09:00** · opublikowano: 2026-10-12 09:37
-- CPV: 45233220, 45111200, 45232452, 45112100, 34922100
-- Dopasowanie: kostki betonow, poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2844-7e86-5a32-5997-b20001064886
-
-### [B] Robota budowlana w zakresie zadania: 
-Przebudowa/modernizacja Pionu Położnictwa i Patologii Ciąży Kliniki Położnictwa, Chorób Kobiecych i Ginekologii Onkologicznej
-- Branża: metal
-- Źródło: BZP · Zamawiający: Samodzielny Publiczny Zakład Opieki Zdrowotnej Szpital Uniwersytecki nr 2 im. dr Jana Biziela w Bydgoszczy (Bydgoszcz, kujawsko-pomorskie)
-- Termin ofert: **2026-11-03 09:00** · opublikowano: 2026-10-19 08:57
-- Wartość: 4714257,36 PLN
-- CPV: 45000000, 45300000, 45330000, 45311200, 45400000
-- Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2dbe-f61f-8de7-701a-d000019f8c1d
-
-### [B] Dostawa kruszywa na drogi leśne
-- Branża: metal
-- Źródło: BZP · Zamawiający: Skarb Państwa Państwowe Gospodarstwo Leśne - Lasy Państwowe Nadleśnictwo Spychowo (Spychowo, warmińsko-mazurskie)
-- Termin ofert: **2026-11-03 09:00** · opublikowano: 2026-10-26 16:45
-- CPV: 14210000
-- Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3380-80a3-5df6-86fd-0300016b70b9
-
-### [B] „Doświetlenie Parku Oliwskiego w Gdańsku” w ramach Budżetu Obywatelskiego 2024.
-- Branża: nawierzchnie
-- Źródło: BZP · Zamawiający: Dyrekcja Rozbudowy Miasta Gdańska działająca w imieniu i na rzecz Gminy Miasta Gdańska (Gdańsk, pomorskie)
-- Termin ofert: **2026-11-03 10:00** · opublikowano: 2026-10-15 08:59
-- CPV: 45000000, 45316110, 45232300
-- Dopasowanie: kostki brukow
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2a9a-a47e-28df-5997-b20001ed3e35
-
-### [B] Budowa oświetlenia ulicznego na terenie Gminy Celestynów
-- Branża: metal
-- Źródło: BZP · Zamawiający: GMINA CELESTYNÓW (Celestynów, mazowieckie)
-- Termin ofert: **2026-11-03 10:00** · opublikowano: 2026-10-19 12:53
-- CPV: 45231400, 45310000, 45316110
-- Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2ddf-f45f-a839-701a-d0000132dbd8
-
-### [B] Usługi ochrony mienia, ochrony fizycznej, dozoru i monitoringu na terenie RZGW w Bydgoszczy
-- Branża: metal
-- Źródło: BZP · Zamawiający: Państwowe Gospodarstwo Wodne Wody Polskie (Warszawa, mazowieckie)
-- Termin ofert: **2026-11-03 10:00** · opublikowano: 2026-10-22 13:45
-- CPV: 79710000, 50324100, 79711000
-- Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3042-ca05-c891-701a-d000016a1674
-
-### [B] REMONT POMIESZCZENIA BUDYNKU NR 106 W KOMPLEKSIE WOJSKOWYM PRZY UL. GDAŃSKIEJ 147 W BYDGOSZCZY
-- Branża: metal
-- Źródło: BZP · Zamawiający: 11 WOJSKOWY ODDZIAŁ GOSPODARCZY (Bydgoszcz, kujawsko-pomorskie)
-- Termin ofert: **2026-11-03 10:30** · opublikowano: 2026-10-19 10:48
-- CPV: 45000000
-- Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2dce-8076-b6d0-701a-d000019f8eec
-
-### [B] Wykonanie otworu poszukiwawczo – rozpoznawczego wód termalnych  Zielonki Parcela GT – 1
-- Branża: metal
-- Źródło: BZP · Zamawiający: Gmina Stare Babice (Stare Babice, mazowieckie)
-- Termin ofert: **2026-11-03 11:00** · opublikowano: 2026-10-19 12:40
-- CPV: 45255500, 45000000, 45100000, 71351900, 71351910, 71351220, 71355200
-- Dopasowanie: poręcz
-- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df2dde-32ba-8708-701a-d0000132db85
 
 ### [B] Dostawa wybranych urządzeń bezpieczeństwa ruchu drogowego do Rejonów (Obwodów) Drogowych MZDW w Warszawie - nr postępowania 206/26
 - Branża: metal
@@ -6536,6 +6853,22 @@ w formule „zaprojektuj i wybuduj
 - Dopasowanie: poręcz
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df35a9-1967-019a-cfcf-e60001c061d8
 
+### [B] „Udzielenie i obsługa bankowa kredytu długoterminowego w wysokości 8 000 000,00 zł”.
+- Branża: metal
+- Źródło: BZP · Zamawiający: POWIAT WYSZKOWSKI (Wyszków, mazowieckie)
+- Termin ofert: **2026-11-12 09:00** · opublikowano: 2026-11-03 11:49
+- CPV: 66113000
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a0-8b9c-6bd3-e2d6-6b000120da28
+
+### [B] Wykonanie i dostawa materiałów/artykułów konferencyjnych oraz informacyjno -  wystawienniczych.
+- Branża: metal
+- Źródło: BZP · Zamawiający: MINISTERSTWO INFRASTRUKTURY (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-12 10:00** · opublikowano: 2026-11-03 12:27
+- CPV: 39294100
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a5-ced3-558b-e2d6-6b000120db63
+
 ### [B] Budowa otworu studziennego dla potrzeb awaryjnego ujęcia wody podziemnej w Kuklówce Zarzecznej
 - Branża: metal
 - Źródło: BZP · Zamawiający: Gmina Radziejowice (Radziejowice, mazowieckie)
@@ -6543,6 +6876,14 @@ w formule „zaprojektuj i wybuduj
 - CPV: 45262220, 45255110, 71351910
 - Dopasowanie: poręcz
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df34fa-c1ee-7b65-f9f4-660001a3c30e
+
+### [B] Dostawy kompletów zabiegowych w kolorze niebieskim i zielonym na okres 24 miesięcy - znak sprawy: Z/110/PN/26
+- Branża: metal
+- Źródło: BZP · Zamawiający: Regionalny Szpital Specjalistyczny im. dr. Władysława Biegańskiego (Grudziądz, kujawsko-pomorskie)
+- Termin ofert: **2026-11-12 11:00** · opublikowano: 2026-11-03 12:35
+- CPV: 33199000
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39a6-e949-21ef-e2d6-6b000120dbb2
 
 ### [B] Naprawa uszkodzonych elementów strzelnicy garnizonowej  typu “B” klasy “I” w Kątach Węgierskich.
 - Branża: metal
@@ -6587,6 +6928,23 @@ według formuły zaprojektuj i wybuduj
 - Dopasowanie: poręcz
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df35ca-049f-3087-cfcf-e60001f8bfe9
 
+### [B] DOSTAWA SPRZĘTU W RAMACH OCHRONY LUDNOŚCI I OBRONY CYWILNEJ W DZIELNICY WESOŁA m.st WARSZAWY – WYPOSAŻENIE RATOWNICZE I TECHNICZNE
+- Branża: metal
+- Źródło: BZP · Zamawiający: Miasto Stołeczne Warszawa Dzielnica Wesoła (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-13 09:00** · opublikowano: 2026-11-03 13:42
+- Wartość: 267752,86 PLN
+- CPV: 35112000, 32236000, 32237000, 42921200, 38431100, 38543000, 38651600, 35111000, 35111510, 38341300, 42990000, 44511000, 44511100, 34911100, 39522110, 18930000, 18937000, 43812000, 43830000, 42650000, 35113000, 39541100, 18444110
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39b0-469f-5117-e2d6-6b000120de0c
+
+### [B] Prace związane ze świadczeniem usług na okresową kontrolę stanu technicznego sprawności przewodów kominowych oraz usuwanie zanieczyszczeń z przewodów kominowych. Oznaczenie sprawy: DNZP.260.80.2026
+- Branża: metal
+- Źródło: BZP · Zamawiający: Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Północ m.st. Warszawy (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-13 10:00** · opublikowano: 2026-11-03 06:01
+- CPV: 90915000
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df396f-eb42-0329-e2d6-6b000120d10b
+
 ### [B] Wymiana urządzeń aktywnych do systemu DSO w obiekcie Stadion Polsat Plus Arena Gdańsk w Gdańsku
 - Branża: metal
 - Źródło: BZP · Zamawiający: ARENA GDAŃSK SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Gdańsk, pomorskie)
@@ -6595,6 +6953,14 @@ według formuły zaprojektuj i wybuduj
 - Dopasowanie: poręcz
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df344d-0092-6dfa-f0a0-c4000171d8f7
 
+### [B] Prace związane ze świadczeniem usług konserwacyjnych oraz usuwanie awarii urządzeń dźwigowych.  Oznaczenie sprawy: DNZP.260.79.2026
+- Branża: metal
+- Źródło: BZP · Zamawiający: Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Północ m.st. Warszawy (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-13 11:00** · opublikowano: 2026-11-03 09:59
+- CPV: 50531400, 50730000, 50343000
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3991-37f2-8438-e2d6-6b000120d684
+
 ### [B] Wykonanie zadania pn. :,,Centrum Integracji Międzypokoleniowej przy ul. Heweliusza 1-3  w Toruniu”
 - Branża: metal
 - Źródło: BZP · Zamawiający: Gmina Miasta Toruń (Toruń, kujawsko-pomorskie)
@@ -6602,6 +6968,24 @@ według formuły zaprojektuj i wybuduj
 - CPV: 45000000, 45330000, 45310000
 - Dopasowanie: małej architektur, poręcz, wiat
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df34cf-6456-4cb0-8b01-b8000139d4e1
+
+### [B] DOSTAWA JAJ, RYB I PRZETWORÓW RYBNYCH ORAZ PRODUKTÓW GŁĘBOKO MROŻONYCH
+- Branża: metal
+- Źródło: BZP · Zamawiający: Wojskowy Ośrodek Szkoleniowo-Kondycyjny Mrągowo (Mrągowo, warmińsko-mazurskie)
+- Termin ofert: **2026-11-16 08:00** · opublikowano: 2026-11-03 09:56
+- Wartość: 184317,90 PLN
+- CPV: 03142500, 15200000, 15896000
+- Dopasowanie: wiat
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3990-c9e5-63d5-e2d6-6b000120d669
+
+### [B] DOSTAWA OWOCÓW, WARZYW ŚWIEŻYCH I KWASZONYCH
+- Branża: metal
+- Źródło: BZP · Zamawiający: Wojskowy Ośrodek Szkoleniowo-Kondycyjny Mrągowo (Mrągowo, warmińsko-mazurskie)
+- Termin ofert: **2026-11-16 08:00** · opublikowano: 2026-11-03 11:12
+- Wartość: 352969,11 PLN
+- CPV: 03200000
+- Dopasowanie: wiat
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df399b-53ac-87ab-e2d6-6b000120d8ea
 
 ### [B] ROBOTA BUDOWLANA – TERMOMODERNIZACJA BUDYNKU BIURA PRZEDSIĘBIORSTWA USŁUG KOMUNALNO-ROLNYCH SP. Z O.O. W MIŁKACH WRAZ Z MONTAŻEM INSTALACJI FOTOWOLTAICZNEJ
 - Branża: metal
@@ -6637,6 +7021,14 @@ według formuły zaprojektuj i wybuduj
 - Dopasowanie: poręcz
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38ba-c105-82ac-e2d6-6b000120c167
 
+### [B] Dostawa koncentratów do dializ na potrzeby Szpitala Wielospecjalistycznego im. dr. Ludwika Błażka w Inowrocławiu
+- Branża: metal
+- Źródło: BZP · Zamawiający: Szpital Wielospecjalistyczny im. dr.L udwika Błażka w Inowrocławiu (Inowrocław, kujawsko-pomorskie)
+- Termin ofert: **2026-11-16 09:00** · opublikowano: 2026-11-03 08:25
+- CPV: 33181520
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3984-136f-178e-e2d6-6b000120d3a7
+
 ### [B] Wykonanie aktualizacji projektu wielobranżowego na dostosowanie budynku biurowego przy ul. Aleje Jerozolimskie 87 w Warszawie do obowiązujących przepisów p.poż.
 - Branża: metal
 - Źródło: BZP · Zamawiający: Polski Instytut Ekonomiczny (Warszawa, mazowieckie)
@@ -6653,6 +7045,14 @@ według formuły zaprojektuj i wybuduj
 - CPV: 44114200, 44113120, 44113100, 44114200, 44114200, 44114200
 - Dopasowanie: płyt chodnikow
 - Link: https://ted.europa.eu/pl/notice/-/detail/719738-2026
+
+### [B] Polska – Urządzenia medyczne – Dostawy asortymentu wielorazowego na okres 24 miesięcy - sprawa nr Z/95/PN/26
+- Branża: metal
+- Źródło: TED · Zamawiający: Regionalny Szpital Specjalistyczny im. dr Władysława Biegańskiego (Grudziądz, kujawsko-pomorskie)
+- Termin ofert: **2026-11-16+01:00** · opublikowano: 2026-11-04
+- CPV: 33100000, 33100000, 33100000, 33100000, 33100000, 33100000
+- Dopasowanie: spawa
+- Link: https://ted.europa.eu/pl/notice/-/detail/764085-2026
 
 ### [B] Przebudowa drogi gminnej Nr 190022N Nidzica-Bartoszki-Etap I
 - Branża: nawierzchnie
@@ -6680,6 +7080,14 @@ według formuły zaprojektuj i wybuduj
 - Dopasowanie: poręcz
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3442-b27f-1b06-f0a0-c4000171d880
 
+### [B] Dostawa kory sosnowej do uzupełnienia złoża biofiltra kompostowni halowej obiekt nr 16
+- Branża: metal
+- Źródło: BZP · Zamawiający: "EKO DOLINA" SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Łężyce, pomorskie)
+- Termin ofert: **2026-11-17 12:00** · opublikowano: 2026-11-03 14:00
+- CPV: 03416000, 03410000
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39b2-c7e0-31f8-e2d6-6b000120de88
+
 ### [B] Polska – Roboty w zakresie budowy dróg – Rozbudowa drogi wojewódzkiej nr 226 - ul. Chopina w Pruszczu Gdańskim – Etap II
 - Branża: metal
 - Źródło: TED · Zamawiający: Zarząd Dróg Wojewódzkich w Gdańsku (Gdańsk, pomorskie)
@@ -6687,6 +7095,73 @@ według formuły zaprojektuj i wybuduj
 - CPV: 45233120, 45233120
 - Dopasowanie: małej architektur, wiat
 - Link: https://ted.europa.eu/pl/notice/-/detail/754625-2026
+
+### [B] Remont czterech mieszkań komunalnych położonych w Tczewie
+- Branża: metal
+- Źródło: BZP · Zamawiający: Tczewskie Towarzystwo Budownictwa Społecznego Sp. z o.o. (Tczew, pomorskie)
+- Termin ofert: **2026-11-18 08:00** · opublikowano: 2026-11-03 06:50
+- CPV: 45000000, 45310000, 45440000, 45330000, 45430000
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3976-c37d-cc32-e2d6-6b000120d162
+
+### [B] Budowa ulicy Jasnej (173221G) w Łęgowie (etap II)
+- Branża: metal + nawierzchnie
+- Źródło: BZP · Zamawiający: Gmina Pruszcz Gdański (Juszkowo, pomorskie)
+- Termin ofert: **2026-11-18 08:00** · opublikowano: 2026-11-03 08:23
+- CPV: 45233120, 45100000, 32412100
+- Dopasowanie: furtk, kostki betonow, nawierzchni z kostki, ogrodzen
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3983-b6ca-fca8-e2d6-6b000120d398
+
+### [B] Wykonanie robót remontowych w zakresie: robót budowlanych, sanitarnych i elektrycznych w placówkach oświatowych na terenie Dzielnicy Praga-Południe m. st. Warszawy
+- Branża: metal
+- Źródło: BZP · Zamawiający: Urząd m.st. Warszawy Dzielnica Praga-Południe (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-18 09:00** · opublikowano: 2026-11-03 10:28
+- CPV: 45453000, 45310000, 45330000, 45331000, 45331100, 45333000, 45110000
+- Dopasowanie: poręcz, spawa
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3995-4472-ff40-e2d6-6b000120d769
+
+### [B] Poprawa efektywności energetycznej budynków oświatowych na terenie Gminy Platerów
+- Branża: metal
+- Źródło: BZP · Zamawiający: Gmina Platerów (Platerów, mazowieckie)
+- Termin ofert: **2026-11-18 09:00** · opublikowano: 2026-11-03 10:52
+- CPV: 45300000, 45000000, 71220000, 71320000, 45331000, 45111200, 45262220, 45331220, 76300000, 76431000, 76490000, 71351910, 45310000, 45311000, 09331200, 09332000, 71314300, 71630000, 71332000
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3998-9ba5-362a-e2d6-6b000120d845
+
+### [B] Budowa przyłączy kanalizacyjnych do budynków mieszkalnych administrowanych przez ZGN w Dzielnicy Wawer m.st. Warszawy
+- Branża: metal
+- Źródło: BZP · Zamawiający: ZAKŁAD GOSPODAROWANIA NIERUCHOMOŚCIAMI W DZIELNICY WAWER M.ST.WARSZAWY (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-18 09:00** · opublikowano: 2026-11-03 11:35
+- Wartość: 176432,47 PLN
+- CPV: 45232410, 45111200
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df399e-9382-5bfc-e2d6-6b000120d9b1
+
+### [B] Bieżące utrzymanie mieszkaniowego zasobu m.st. Warszawy administrowanego przez ZGN w Dzielnicy Praga-Północ w sprawności technicznej w zakresie branży elektrycznej.
+Ozn. sprawy: DNZP.260.76.2026
+- Branża: metal
+- Źródło: BZP · Zamawiający: Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Północ m.st. Warszawy (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-18 10:00** · opublikowano: 2026-11-03 05:51
+- CPV: 45310000, 45453000, 45000000
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df396e-86a4-3ca4-e2d6-6b000120d101
+
+### [B] Dostawa oleju opałowego lekkiego dla potrzeb Powiatowego Szpitala w Aleksandrowie Kujawskim Sp. z o.o.
+- Branża: metal
+- Źródło: BZP · Zamawiający: POWIATOWY SZPITAL W ALEKSANDROWIE KUJAWSKIM SPÓŁKA Z OGRANICZONĄ ODPOWIEDZIALNOŚCIĄ (Aleksandrów Kujawski, kujawsko-pomorskie)
+- Termin ofert: **2026-11-18 11:00** · opublikowano: 2026-11-03 13:34
+- CPV: 09135100
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df39af-228f-0e8e-e2d6-6b000120ddd6
+
+### [B] Bieżące utrzymanie mieszkaniowego zasobu m.st. Warszawy administrowanego przez ZGN w Dzielnicy Praga-Północ w sprawności technicznej w zakresie branży sanitarnej.
+Ozn. sprawy: DNZP.260.78.2026
+- Branża: metal
+- Źródło: BZP · Zamawiający: Zakład Gospodarowania Nieruchomościami w Dzielnicy Praga-Północ m.st. Warszawy (Warszawa, mazowieckie)
+- Termin ofert: **2026-11-18 12:00** · opublikowano: 2026-11-03 05:58
+- CPV: 45330000, 45453000, 45000000
+- Dopasowanie: poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df396f-7acb-0749-e2d6-6b000120d107
 
 ### [B] Polska – Rozdrabniacze ultradźwiękowe – Dostawa homogenizatora ultradźwiękowego dla Zakładu Biomateriałów i Fizyki Medycznej Uniwersytetu Gdańskiego
 - Branża: metal
@@ -6712,6 +7187,23 @@ według formuły zaprojektuj i wybuduj
 - Dopasowanie: poręcz
 - Link: https://ted.europa.eu/pl/notice/-/detail/718466-2026
 
+### [B] Odbudowa całkowita kaplicy grobowej rodziny von Schenk zu Tautenberg na dz. nr 25, obręb Kamionki
+- Branża: metal
+- Źródło: BZP · Zamawiający: GMINA GIŻYCKO (Giżycko, warmińsko-mazurskie)
+- Termin ofert: **2026-11-19 09:00** · opublikowano: 2026-11-03 08:09
+- Wartość: 772919,68 PLN
+- CPV: 45000000
+- Dopasowanie: balustrad, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3981-d17c-96f0-e2d6-6b000120d331
+
+### [B] BUDOWA STACJI UZDATNIANIA WODY W MIEJSCOWOŚCI STARKOWO
+- Branża: metal
+- Źródło: BZP · Zamawiający: GMINA TRZEBIELINO (Trzebielino, pomorskie)
+- Termin ofert: **2026-11-19 10:00** · opublikowano: 2026-11-03 10:14
+- CPV: 45252126
+- Dopasowanie: ogrodzen, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df3993-341f-c960-e2d6-6b000120d6f0
+
 ### [B] Polska – Roboty budowlane – Projekt, budowa i przebudowa drogi krajowej nr 60 na odcinku Gostynin-Płock w podziale na dwa odcinki: Odcinek 1. Projekt, budowa i przebudowa drogi krajowej nr 60 na odcinku Gostynin-Płock od km ok. 52+357 do km ok. 55+737 oraz od km ok. 59+011 do km ok. 61+900; Odcinek 
 - Branża: metal
 - Źródło: TED · Zamawiający: Generalna Dyrekcja Dróg Krajowych i Autostrad (Warszawa, mazowieckie)
@@ -6719,6 +7211,14 @@ według formuły zaprojektuj i wybuduj
 - CPV: 45000000, 45233000, 45200000, 45220000, 45200000, 45221120
 - Dopasowanie: ogrodzen
 - Link: https://ted.europa.eu/pl/notice/-/detail/745092-2026
+
+### [B] Przebudowa i remont ulicy bocznej od Kasztanowej w Michałowicach
+- Branża: metal + nawierzchnie
+- Źródło: BZP · Zamawiający: GMINA MICHAŁOWICE (Reguły, mazowieckie)
+- Termin ofert: **2026-11-23 11:30** · opublikowano: 2026-11-03 11:07
+- CPV: 45233120, 45233000, 45111000, 45100000, 45113000, 45111200
+- Dopasowanie: kostki betonow, poręcz
+- Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df399a-b3de-16f8-e2d6-6b000120d8c2
 
 ### [B] Polska – Znaki drogowe – Dostawa tarcz, słupków i obejm do znaków drogowych w 2027 r. – zamówienie udzielane w częściach
 - Branża: metal
@@ -6744,6 +7244,14 @@ według formuły zaprojektuj i wybuduj
 - Dopasowanie: kostka betonowa
 - Link: https://ted.europa.eu/pl/notice/-/detail/738962-2026
 
+### [B] Polska – Usługi leśnictwa – Wykonie usług z zakresu gospodarki leśnej na terenie Nadleśnictwa Trzebielino w roku 2027
+- Branża: metal
+- Źródło: TED · Zamawiający: Państwowe Gospodarstwo Leśne Lasy Państwowe Nadleśnictwo Trzebielino (Trzebielino, pomorskie)
+- Termin ofert: **2026-11-24+01:00** · opublikowano: 2026-11-04
+- CPV: 77200000, 77210000, 77211000, 77211100, 77211200, 77211300
+- Dopasowanie: wiat
+- Link: https://ted.europa.eu/pl/notice/-/detail/767330-2026
+
 ### [B] Budowę systemu monitoringu wizyjnego w miejscowości Gródek Krajeński w ramach zadań pn.: (...)
 - Branża: metal
 - Źródło: BZP · Zamawiający: Związek Gmin Nakło nad Notecią - Łobżenica (Nakło nad Notecią, kujawsko-pomorskie)
@@ -6751,6 +7259,22 @@ według formuły zaprojektuj i wybuduj
 - CPV: 45312200, 32323500, 35125300, 45111200, 45311200, 45314300, 32342400, 71355000
 - Dopasowanie: altan
 - Link: https://ezamowienia.gov.pl/mo-client-board/bzp/notice-details/id/08df38da-8cf3-db4d-e2d6-6b000120c907
+
+### [B] Polska – Sprzęt wystawowy – Wykonanie modernizacji wystawy stałej Muzeum Historii Torunia w Domu Eskenów, projekt i wykonanie wystawy planszowej we współpracy z partnerem zagranicznym
+- Branża: metal
+- Źródło: TED · Zamawiający: Muzeum Okręgowe w Toruniu (Toruń, kujawsko-pomorskie)
+- Termin ofert: **2026-11-25+01:00** · opublikowano: 2026-11-04
+- CPV: 39154000, 31200000, 31000000, 32321200, 32321300, 32322000
+- Dopasowanie: gablot
+- Link: https://ted.europa.eu/pl/notice/-/detail/766020-2026
+
+### [B] Polska – Produkty farmaceutyczne – „Dostawa płynów infuzyjnych, roztworów leczniczych oraz produktów do żywienia dojelitowego i pozajelitowego”
+- Branża: metal
+- Źródło: TED · Zamawiający: Szpital Kliniczny Ministerstwa Spraw Wewnętrznych i Administracji z Warmińsko-Mazurskim Centrum Onkologii w Olsztynie (OLSZTYN, warmińsko-mazurskie)
+- Termin ofert: **2026-12-04+01:00** · opublikowano: 2026-11-04
+- CPV: 33600000, 33692000, 33692510, 33692200, 33693000, 33692000
+- Dopasowanie: molo
+- Link: https://ted.europa.eu/pl/notice/-/detail/765814-2026
 
 ### [B] Polska – Jednorazowe, niechemiczne artykuły medyczne i hematologiczne – Sukcesywna dostawa pieluchomajtek na potrzeby pacjentów zakładów wchodzących w skład Stołecznego Centrum Opiekuńczo-Leczniczego Sp. z o.o. w Warszawie
 - Branża: metal
@@ -6772,14 +7296,14 @@ według formuły zaprojektuj i wybuduj
 
 | Źródło | Status | Szczegóły |
 |---|---|---|
-| BZP | OK | pobrano 592, pasuje 49 |
-| TED | OK | pobrano 626, pasuje 45 |
+| BZP | BŁĄD | HTTP Error 403: Forbidden |
+| TED | OK | pobrano 956, pasuje 72 |
 | Gmina Ostróda (BIP) | OK | 317 linków, pasuje 0 |
 | Gmina Miejska Ostróda | OK | 167 linków, pasuje 0 |
-| Powiat Ostródzki (BIP) | OK | 215 linków, pasuje 0 |
+| Powiat Ostródzki (BIP) | OK | 214 linków, pasuje 0 |
 | RDLP Olsztyn (platformazakupowa) | OK | 14 linków, pasuje 0 |
 | Urząd Marszałkowski Warmii i Mazur (BIP) | BŁĄD | https://bip.warmia.mazury.pl – <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl. |
-| Miasto Olsztyn (BIP) | OK | 376 linków, pasuje 1 |
+| Miasto Olsztyn (BIP) | OK | 375 linków, pasuje 1 |
 | Zarząd Dróg Wojewódzkich Olsztyn | OK | 101 linków, pasuje 0 |
 
 A = zakres w CPV/tytule · S = znalezione na stronie gminy/powiatu · B = zakres tylko w treści (sprawdź przedmiar)
